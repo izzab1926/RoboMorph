@@ -1,0 +1,6630 @@
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+55it [00:10,  5.66it/s]/home/asad/miniconda3/envs/new_transformers/lib/python3.8/site-packages/torch/nn/modules/activation.py:1160: UserWarning: Converting mask without torch.bool dtype to bool; this will negatively affect performance. Prefer to use a boolean mask directly. (Triggered internally at /opt/conda/conda-bld/pytorch_1682343962757/work/aten/src/ATen/native/transformers/attention.cpp:150.)
+  return torch._native_multi_head_attention(
+iter_num=40300 loss_val=0.0075
+iter_num=40300 loss=0.0169 loss_val=0.0075 lr_iter=0.0005999778608486641
+
+
+
+
+111it [00:21,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/318_envs_3102_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3102, 1000, 7])
+torch.Size([3102, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+115it [00:22,  5.08it/s]
+
+
+
+
+41it [00:07,  5.66it/s]
+iter_num=40400 loss_val=0.0059
+
+
+
+
+
+
+
+
+
+
+141it [00:27,  5.66it/s]
+iter_num=40500 loss_val=0.0058
+
+
+154it [00:32,  5.35it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/149_envs_4038_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4038, 1000, 7])
+torch.Size([4038, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+156it [00:32,  4.82it/s]
+
+
+
+
+
+
+
+
+86it [00:15,  5.66it/s]
+iter_num=40600 loss_val=0.0019
+
+
+
+
+
+
+
+
+
+
+186it [00:36,  5.66it/s]
+iter_num=40700 loss_val=0.0022
+
+195it [00:40,  4.31it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/747_envs_3054_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3054, 1000, 7])
+torch.Size([3054, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+202it [00:42,  4.80it/s]
+
+
+
+
+
+
+
+
+85it [00:14,  5.66it/s]
+iter_num=40800 loss_val=0.0055
+
+
+
+
+
+
+145it [00:28,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/703_envs_2310_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2310, 1000, 7])
+torch.Size([2310, 1000, 14])
+
+153it [00:29,  5.19it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+33it [00:05,  5.66it/s]
+iter_num=40900 loss_val=0.0066
+
+
+
+
+
+
+
+
+114it [00:22,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/826_envs_3045_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3045, 1000, 7])
+torch.Size([3045, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+116it [00:22,  5.20it/s]
+
+
+18it [00:03,  5.65it/s]
+iter_num=41000 loss_val=0.0050
+
+
+
+
+
+
+
+
+
+
+118it [00:23,  5.65it/s]
+iter_num=41100 loss_val=0.0058
+
+
+
+148it [00:31,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/3_envs_3398_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3398, 1000, 7])
+torch.Size([3398, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+153it [00:31,  4.80it/s]
+
+
+
+
+
+
+66it [00:11,  5.66it/s]
+iter_num=41200 loss_val=0.0054
+
+
+
+
+
+
+
+
+
+166it [00:32,  5.65it/s]
+iter_num=41300 loss_val=0.0036
+iter_num=41300 loss=0.0039 loss_val=0.0036 lr_iter=0.0005999756259610464
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/149_envs_3642_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3642, 1000, 7])
+torch.Size([3642, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+170it [00:35,  4.80it/s]
+
+
+
+
+
+
+
+
+
+97it [00:17,  5.66it/s]
+
+98it [00:20,  1.05s/it]
+
+
+
+
+
+
+
+177it [00:34,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/859_envs_3638_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3638, 1000, 7])
+torch.Size([3638, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+183it [00:35,  5.21it/s]
+
+
+15it [00:02,  5.66it/s]
+iter_num=41500 loss_val=0.0030
+
+
+
+
+
+
+
+
+
+
+115it [00:23,  5.65it/s]
+iter_num=41600 loss_val=0.0035
+
+
+
+
+
+
+173it [00:36,  5.65it/s]
+ ----------------------------------
+Starting with file:
+
+182it [00:37,  4.80it/s]
+torch.Size([4005, 1000, 7])
+torch.Size([4005, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+34it [00:05,  5.66it/s]
+iter_num=41700 loss_val=0.0030
+
+
+
+
+
+
+
+
+
+
+134it [00:26,  5.66it/s]
+iter_num=41800 loss_val=0.0024
+
+
+
+
+
+
+201it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/178_envs_3423_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3423, 1000, 7])
+torch.Size([3423, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+34it [00:05,  5.66it/s]
+iter_num=41900 loss_val=0.0045
+
+
+
+
+
+
+
+
+
+
+134it [00:26,  5.66it/s]
+iter_num=42000 loss_val=0.0036
+
+
+
+168it [00:35,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/731_envs_2344_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2344, 1000, 7])
+torch.Size([2344, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+172it [00:35,  4.81it/s]
+
+
+
+
+
+
+63it [00:11,  5.66it/s]
+iter_num=42100 loss_val=0.0062
+
+
+
+
+
+118it [00:22,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/983_envs_4017_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4017, 1000, 7])
+torch.Size([4017, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+46it [00:08,  5.65it/s]
+iter_num=42200 loss_val=0.0021
+
+
+
+
+
+
+
+
+
+146it [00:28,  5.66it/s]
+iter_num=42300 loss_val=0.0016
+
+
+
+
+
+197it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/608_envs_3430_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3430, 1000, 7])
+torch.Size([3430, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:42,  4.78it/s]
+
+
+
+
+46it [00:08,  5.66it/s]
+iter_num=42400 loss_val=0.0042
+
+
+
+
+
+
+
+
+
+146it [00:28,  5.64it/s]
+iter_num=42500 loss_val=0.0034
+
+
+164it [00:34,  5.60it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/196_envs_3396_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3396, 1000, 7])
+
+172it [00:35,  4.80it/s]
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+75it [00:13,  5.66it/s]
+iter_num=42600 loss_val=0.0043
+
+
+
+
+
+
+
+
+166it [00:32,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/882_envs_2273_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2273, 1000, 7])
+torch.Size([2273, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+170it [00:32,  5.19it/s]
+
+6it [00:01,  5.74it/s]
+iter_num=42700 loss_val=0.0062
+
+
+
+
+
+
+
+
+
+
+107it [00:22,  1.37it/s]
+iter_num=42800 loss_val=0.0074
+iter_num=42800 loss=0.0102 loss_val=0.0074 lr_iter=0.0005999720721800935
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/759_envs_3673_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3673, 1000, 7])
+torch.Size([3673, 1000, 14])
+
+114it [00:23,  4.79it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+93it [00:16,  5.66it/s]
+iter_num=42900 loss_val=0.0030
+
+
+
+
+
+
+
+
+176it [00:33,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/197_envs_3056_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3056, 1000, 7])
+torch.Size([3056, 1000, 14])
+
+184it [00:35,  5.20it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+10it [00:01,  5.65it/s]
+iter_num=43000 loss_val=0.0057
+
+
+
+
+
+
+
+
+
+110it [00:21,  5.66it/s]
+iter_num=43100 loss_val=0.0055
+
+
+
+
+153it [00:32,  4.78it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/67_envs_4022_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4022, 1000, 7])
+torch.Size([4022, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+58it [00:10,  5.66it/s]
+iter_num=43200 loss_val=0.0018
+
+
+
+
+
+
+
+
+
+158it [00:31,  5.65it/s]
+iter_num=43300 loss_val=0.0019
+
+
+
+
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/84_envs_3632_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3632, 1000, 7])
+torch.Size([3632, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+202it [00:41,  4.81it/s]
+
+
+
+
+
+57it [00:10,  5.66it/s]
+iter_num=43400 loss_val=0.0034
+
+
+
+
+
+
+
+
+
+157it [00:30,  5.66it/s]
+iter_num=43500 loss_val=0.0032
+
+
+182it [00:37,  4.80it/s]
+0it [00:00, ?it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/876_envs_2265_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2265, 1000, 7])
+torch.Size([2265, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+
+
+76it [00:13,  5.66it/s]
+
+80it [00:15,  2.72it/s]
+
+
+
+114it [00:21,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/402_envs_4034_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4034, 1000, 7])
+torch.Size([4034, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+63it [00:11,  5.66it/s]
+iter_num=43700 loss_val=0.0019
+
+
+
+
+
+
+
+
+
+
+
+164it [00:35,  1.13s/it]
+iter_num=43800 loss_val=0.0017
+
+
+
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/738_envs_2308_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2308, 1000, 7])
+torch.Size([2308, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+202it [00:42,  4.80it/s]
+
+
+
+
+
+
+62it [00:10,  5.66it/s]
+iter_num=43900 loss_val=0.0058
+
+
+
+
+
+116it [00:22,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/86_envs_2257_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2257, 1000, 7])
+torch.Size([2257, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+47it [00:08,  5.66it/s]
+iter_num=44000 loss_val=0.0056
+
+
+
+
+
+
+112it [00:21,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/882_envs_4000_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4000, 1000, 7])
+torch.Size([4000, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+113it [00:21,  5.19it/s]
+
+
+
+35it [00:06,  5.66it/s]
+iter_num=44100 loss_val=0.0049
+
+
+
+
+
+
+
+
+
+
+
+136it [00:30,  1.14s/it]
+iter_num=44200 loss_val=0.0041
+
+
+
+
+
+191it [00:40,  5.18it/s]
+ ----------------------------------
+Starting with file:
+
+200it [00:42,  4.75it/s]
+torch.Size([4055, 1000, 7])
+torch.Size([4055, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+36it [00:06,  5.51it/s]
+iter_num=44300 loss_val=0.0020
+
+
+
+
+
+
+
+
+
+
+136it [00:27,  5.51it/s]
+iter_num=44400 loss_val=0.0017
+
+
+
+
+
+
+195it [00:41,  5.60it/s]
+ ----------------------------------
+Starting with file:
+
+203it [00:43,  4.70it/s]
+torch.Size([4014, 1000, 7])
+torch.Size([4014, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+34it [00:06,  5.62it/s]
+iter_num=44500 loss_val=0.0034
+
+
+
+
+
+
+
+
+
+
+134it [00:27,  5.61it/s]
+iter_num=44600 loss_val=0.0036
+
+
+
+
+
+
+199it [00:41,  5.61it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/540_envs_4028_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4028, 1000, 7])
+torch.Size([4028, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:42,  4.76it/s]
+
+
+
+34it [00:06,  5.61it/s]
+iter_num=44700 loss_val=0.0016
+
+
+
+
+
+
+
+
+
+
+134it [00:27,  5.62it/s]
+
+135it [00:30,  1.19s/it]
+
+
+
+
+
+
+202it [00:42,  4.73it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/859_envs_3411_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3411, 1000, 7])
+torch.Size([3411, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+33it [00:05,  5.62it/s]
+iter_num=44900 loss_val=0.0042
+
+
+
+
+
+
+
+
+
+
+133it [00:26,  5.62it/s]
+
+135it [00:29,  1.33it/s]
+
+
+
+168it [00:35,  5.62it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/847_envs_3610_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3610, 1000, 7])
+torch.Size([3610, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+171it [00:35,  4.77it/s]
+
+
+
+
+
+
+63it [00:11,  5.62it/s]
+iter_num=45100 loss_val=0.0033
+
+
+
+
+
+
+
+
+
+
+
+164it [00:34,  1.04s/it]
+iter_num=45200 loss_val=0.0031
+
+175it [00:36,  5.13it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/95_envs_4021_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4021, 1000, 7])
+torch.Size([4021, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+181it [00:37,  4.78it/s]
+
+
+
+
+
+
+
+
+83it [00:14,  5.62it/s]
+
+84it [00:18,  1.14s/it]
+
+
+
+
+
+
+
+
+
+183it [00:35,  5.61it/s]
+iter_num=45400 loss_val=0.0036
+
+
+201it [00:42,  4.77it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/194_envs_4019_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4019, 1000, 7])
+torch.Size([4019, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+83it [00:14,  5.62it/s]
+iter_num=45500 loss_val=0.0017
+
+
+
+
+
+
+
+
+
+
+183it [00:35,  5.61it/s]
+iter_num=45600 loss_val=0.0014
+
+
+196it [00:41,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/150_envs_4016_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4016, 1000, 7])
+torch.Size([4016, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:42,  4.75it/s]
+
+
+
+
+
+
+
+
+83it [00:14,  5.62it/s]
+iter_num=45700 loss_val=0.0018
+
+
+
+
+
+
+
+
+
+
+183it [00:35,  5.62it/s]
+iter_num=45800 loss_val=0.0016
+
+
+201it [00:42,  4.77it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/897_envs_3442_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3442, 1000, 7])
+torch.Size([3442, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+83it [00:14,  5.62it/s]
+iter_num=45900 loss_val=0.0036
+
+
+
+
+
+
+
+
+173it [00:33,  5.17it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/322_envs_2349_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2349, 1000, 7])
+torch.Size([2349, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+11it [00:01,  5.63it/s]
+iter_num=46000 loss_val=0.0060
+
+
+
+
+
+
+
+
+
+
+111it [00:21,  5.62it/s]
+iter_num=46100 loss_val=0.0060
+iter_num=46100 loss=0.0095 loss_val=0.0060 lr_iter=0.000599963402954013
+ ----------------------------------
+Starting with file:
+
+118it [00:24,  4.77it/s]
+torch.Size([2272, 1000, 7])
+torch.Size([2272, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+94it [00:16,  5.60it/s]
+iter_num=46200 loss_val=0.0055
+
+
+112it [00:21,  5.63it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/616_envs_3658_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3658, 1000, 7])
+torch.Size([3658, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+114it [00:22,  5.13it/s]
+
+
+
+
+
+
+
+81it [00:14,  5.66it/s]
+iter_num=46300 loss_val=0.0027
+
+
+
+
+
+
+
+
+
+181it [00:34,  5.67it/s]
+iter_num=46400 loss_val=0.0029
+iter_num=46400 loss=0.0029 loss_val=0.0029 lr_iter=0.0005999625568270455
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/784_envs_3049_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3049, 1000, 7])
+torch.Size([3049, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+183it [00:38,  4.80it/s]
+
+
+
+
+
+
+
+
+
+99it [00:17,  5.67it/s]
+iter_num=46500 loss_val=0.0057
+
+
+
+
+146it [00:28,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/398_envs_3041_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3041, 1000, 7])
+torch.Size([3041, 1000, 14])
+153it [00:29,  5.21it/s]
+0it [00:00, ?it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+47it [00:08,  5.66it/s]
+iter_num=46600 loss_val=0.0068
+
+
+
+
+
+
+
+
+
+
+147it [00:28,  5.66it/s]
+iter_num=46700 loss_val=0.0061
+
+152it [00:31,  4.79it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/812_envs_4027_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4027, 1000, 7])
+torch.Size([4027, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+96it [00:16,  5.67it/s]
+iter_num=46800 loss_val=0.0017
+
+
+
+
+
+
+
+
+
+196it [00:37,  5.66it/s]
+iter_num=46900 loss_val=0.0016
+
+201it [00:41,  2.46it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/184_envs_4015_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4015, 1000, 7])
+torch.Size([4015, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+202it [00:41,  4.81it/s]
+
+
+
+
+
+
+
+
+95it [00:16,  5.66it/s]
+iter_num=47000 loss_val=0.0032
+
+
+
+
+
+
+
+
+
+
+
+197it [00:41,  1.18it/s]
+iter_num=47100 loss_val=0.0030
+iter_num=47100 loss=0.0019 loss_val=0.0030 lr_iter=0.0005999605449286949
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/828_envs_3035_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3035, 1000, 7])
+torch.Size([3035, 1000, 14])
+201it [00:41,  4.81it/s]
+3it [00:00,  5.99it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+
+
+
+
+95it [00:16,  5.67it/s]
+iter_num=47200 loss_val=0.0051
+
+
+
+
+
+149it [00:28,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/119_envs_3669_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3669, 1000, 7])
+torch.Size([3669, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+152it [00:29,  5.20it/s]
+
+
+
+
+44it [00:07,  5.67it/s]
+iter_num=47300 loss_val=0.0027
+
+
+
+
+
+
+
+
+
+144it [00:28,  5.66it/s]
+iter_num=47400 loss_val=0.0034
+
+
+
+
+184it [00:38,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/445_envs_4034_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4034, 1000, 7])
+torch.Size([4034, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+61it [00:10,  5.67it/s]
+iter_num=47500 loss_val=0.0022
+
+
+
+
+
+
+
+
+
+
+161it [00:31,  5.66it/s]
+iter_num=47600 loss_val=0.0016
+
+
+
+
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/713_envs_3673_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3673, 1000, 7])
+torch.Size([3673, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+202it [00:42,  4.81it/s]
+
+
+
+
+
+
+60it [00:10,  5.67it/s]
+iter_num=47700 loss_val=0.0031
+
+
+
+
+
+
+
+
+
+
+160it [00:31,  5.67it/s]
+iter_num=47800 loss_val=0.0030
+
+
+
+184it [00:38,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/104_envs_4004_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4004, 1000, 7])
+torch.Size([4004, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+77it [00:13,  5.67it/s]
+iter_num=47900 loss_val=0.0016
+
+
+
+
+
+
+
+
+
+
+177it [00:34,  5.66it/s]
+iter_num=48000 loss_val=0.0015
+
+
+200it [00:41,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/728_envs_4032_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4032, 1000, 7])
+torch.Size([4032, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:41,  4.82it/s]
+
+
+
+
+
+
+
+
+78it [00:16,  1.13s/it]
+iter_num=48100 loss_val=0.0015
+
+
+
+
+
+
+
+
+
+177it [00:34,  5.66it/s]
+iter_num=48200 loss_val=0.0015
+
+
+197it [00:41,  5.63it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/911_envs_3621_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3621, 1000, 7])
+torch.Size([3621, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+202it [00:41,  4.81it/s]
+
+
+
+
+
+
+
+76it [00:13,  5.67it/s]
+iter_num=48300 loss_val=0.0034
+
+
+
+
+
+
+
+
+
+176it [00:33,  5.66it/s]
+iter_num=48400 loss_val=0.0023
+iter_num=48400 loss=0.0024 loss_val=0.0023 lr_iter=0.0005999566688822762
+ ----------------------------------
+Starting with file:
+
+181it [00:37,  4.80it/s]
+torch.Size([2302, 1000, 7])
+torch.Size([2302, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+96it [00:16,  5.67it/s]
+iter_num=48500 loss_val=0.0064
+
+
+114it [00:21,  5.63it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/651_envs_3715_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3715, 1000, 7])
+torch.Size([3715, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+116it [00:22,  5.22it/s]
+
+
+
+
+
+
+
+81it [00:14,  5.66it/s]
+iter_num=48600 loss_val=0.0027
+
+
+
+
+
+
+
+
+
+181it [00:34,  5.66it/s]
+iter_num=48700 loss_val=0.0031
+
+186it [00:38,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/988_envs_4008_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4008, 1000, 7])
+torch.Size([4008, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+96it [00:16,  5.67it/s]
+iter_num=48800 loss_val=0.0016
+
+
+
+
+
+
+
+
+
+
+196it [00:37,  5.67it/s]
+iter_num=48900 loss_val=0.0018
+
+201it [00:41,  2.61it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/986_envs_4013_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4013, 1000, 7])
+torch.Size([4013, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:41,  4.82it/s]
+
+
+
+
+
+
+
+
+96it [00:16,  5.67it/s]
+iter_num=49000 loss_val=0.0031
+
+
+
+
+
+
+
+
+
+
+
+198it [00:41,  1.18it/s]
+iter_num=49100 loss_val=0.0025
+iter_num=49100 loss=0.0025 loss_val=0.0025 lr_iter=0.0005999545065775388
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/885_envs_4028_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4028, 1000, 7])
+torch.Size([4028, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:41,  4.81it/s]
+
+
+
+
+
+
+
+
+
+96it [00:16,  5.67it/s]
+iter_num=49200 loss_val=0.0017
+
+
+
+
+
+
+
+
+
+
+196it [00:37,  5.67it/s]
+iter_num=49300 loss_val=0.0016
+iter_num=49300 loss=0.0015 loss_val=0.0016 lr_iter=0.0005999538791073317
+ ----------------------------------
+Starting with file:
+202it [00:41,  4.82it/s]
+0it [00:00, ?it/s]
+torch.Size([4012, 1000, 7])
+torch.Size([4012, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+
+
+
+
+
+96it [00:20,  1.13s/it]
+iter_num=49400 loss_val=0.0014
+
+
+
+
+
+
+
+
+
+195it [00:37,  5.66it/s]
+iter_num=49500 loss_val=0.0016
+
+201it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/569_envs_3639_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3639, 1000, 7])
+torch.Size([3639, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+95it [00:16,  5.66it/s]
+iter_num=49600 loss_val=0.0029
+
+
+
+
+
+
+
+
+182it [00:35,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/663_envs_3444_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3444, 1000, 7])
+torch.Size([3444, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+14it [00:02,  5.67it/s]
+iter_num=49700 loss_val=0.0039
+
+
+
+
+
+
+
+
+
+
+
+115it [00:25,  1.00s/it]
+iter_num=49800 loss_val=0.0040
+
+
+
+
+
+173it [00:35,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/323_envs_2273_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2273, 1000, 7])
+torch.Size([2273, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+42it [00:07,  5.67it/s]
+iter_num=49900 loss_val=0.0061
+
+
+
+
+
+
+110it [00:21,  5.66it/s]
+ ----------------------------------
+Starting with file:
+114it [00:21,  5.20it/s]
+3it [00:00,  5.98it/s]
+torch.Size([3624, 1000, 7])
+torch.Size([3624, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+32it [00:08,  1.67it/s]
+iter_num=50000 loss_val=0.0028
+
+
+
+
+
+
+
+
+
+
+130it [00:28,  1.04s/it]
+iter_num=50100 loss_val=0.0026
+
+
+
+
+182it [00:37,  4.82it/s]
+0it [00:00, ?it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/177_envs_4008_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4008, 1000, 7])
+torch.Size([4008, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+
+50it [00:11,  1.19it/s]
+iter_num=50200 loss_val=0.0029
+
+
+
+
+
+
+
+
+
+148it [00:29,  5.66it/s]
+iter_num=50300 loss_val=0.0026
+
+
+
+
+
+201it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/772_envs_3646_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3646, 1000, 7])
+torch.Size([3646, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+49it [00:11,  1.05s/it]
+iter_num=50400 loss_val=0.0033
+
+
+
+
+
+
+
+
+
+148it [00:28,  5.67it/s]
+iter_num=50500 loss_val=0.0038
+
+
+
+181it [00:37,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/255_envs_2302_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2302, 1000, 7])
+torch.Size([2302, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+183it [00:37,  4.82it/s]
+
+
+
+
+
+
+66it [00:11,  5.67it/s]
+iter_num=50600 loss_val=0.0060
+
+
+
+
+
+116it [00:22,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/423_envs_3636_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3636, 1000, 7])
+torch.Size([3636, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+51it [00:08,  5.67it/s]
+iter_num=50700 loss_val=0.0026
+
+
+
+
+
+
+
+
+
+151it [00:29,  5.67it/s]
+iter_num=50800 loss_val=0.0028
+
+
+
+181it [00:37,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/485_envs_4000_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4000, 1000, 7])
+torch.Size([4000, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+182it [00:37,  4.81it/s]
+
+
+
+
+
+
+70it [00:12,  5.67it/s]
+iter_num=50900 loss_val=0.0026
+
+
+
+
+
+
+
+
+
+170it [00:33,  5.67it/s]
+iter_num=51000 loss_val=0.0032
+
+
+
+197it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/172_envs_3670_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3670, 1000, 7])
+torch.Size([3670, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+200it [00:41,  4.81it/s]
+
+
+
+
+
+
+71it [00:12,  5.66it/s]
+iter_num=51100 loss_val=0.0025
+
+
+
+
+
+
+
+
+
+
+171it [00:33,  5.66it/s]
+iter_num=51200 loss_val=0.0028
+
+
+184it [00:38,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/218_envs_4024_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4024, 1000, 7])
+torch.Size([4024, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+88it [00:15,  5.67it/s]
+iter_num=51300 loss_val=0.0014
+
+
+
+
+
+
+
+
+
+
+
+189it [00:39,  1.13s/it]
+iter_num=51400 loss_val=0.0015
+
+200it [00:41,  5.12it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/795_envs_3474_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3474, 1000, 7])
+torch.Size([3474, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+202it [00:41,  4.82it/s]
+
+
+
+
+
+
+
+
+87it [00:15,  5.66it/s]
+iter_num=51500 loss_val=0.0041
+
+
+
+
+
+
+
+
+171it [00:33,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/347_envs_3056_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3056, 1000, 7])
+torch.Size([3056, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+174it [00:33,  5.19it/s]
+
+14it [00:02,  5.67it/s]
+iter_num=51600 loss_val=0.0049
+
+
+
+
+
+
+
+
+
+114it [00:22,  5.66it/s]
+iter_num=51700 loss_val=0.0050
+
+
+
+147it [00:30,  5.66it/s]
+ ----------------------------------
+Starting with file:
+153it [00:31,  4.80it/s]
+0it [00:00, ?it/s]
+torch.Size([4003, 1000, 7])
+torch.Size([4003, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+
+62it [00:10,  5.66it/s]
+iter_num=51800 loss_val=0.0027
+
+
+
+
+
+
+
+
+
+162it [00:31,  5.67it/s]
+iter_num=51900 loss_val=0.0026
+
+
+
+
+201it [00:41,  4.82it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/34_envs_3012_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3012, 1000, 7])
+torch.Size([3012, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+64it [00:13,  1.46it/s]
+iter_num=52000 loss_val=0.0050
+
+
+
+
+
+
+
+
+151it [00:29,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/912_envs_4036_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4036, 1000, 7])
+torch.Size([4036, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+12it [00:02,  5.68it/s]
+
+15it [00:05,  1.55it/s]
+
+
+
+
+
+
+
+
+
+112it [00:22,  5.66it/s]
+iter_num=52200 loss_val=0.0019
+
+
+
+
+
+
+
+
+202it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/676_envs_2359_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2359, 1000, 7])
+torch.Size([2359, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+11it [00:01,  5.68it/s]
+iter_num=52300 loss_val=0.0072
+
+
+
+
+
+
+
+
+
+
+111it [00:21,  5.66it/s]
+iter_num=52400 loss_val=0.0055
+iter_num=52400 loss=0.0098 loss_val=0.0055 lr_iter=0.0005999436038146325
+ ----------------------------------
+Starting with file:
+
+118it [00:24,  4.79it/s]
+torch.Size([3387, 1000, 7])
+torch.Size([3387, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+94it [00:16,  5.66it/s]
+iter_num=52500 loss_val=0.0044
+
+
+
+
+
+
+
+166it [00:31,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/830_envs_3002_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3002, 1000, 7])
+torch.Size([3002, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+170it [00:32,  5.21it/s]
+
+
+25it [00:04,  5.67it/s]
+iter_num=52600 loss_val=0.0049
+
+
+
+
+
+
+
+
+
+125it [00:24,  5.67it/s]
+iter_num=52700 loss_val=0.0043
+
+
+147it [00:30,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/795_envs_2292_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2292, 1000, 7])
+torch.Size([2292, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+151it [00:31,  4.81it/s]
+
+
+
+
+
+
+
+75it [00:13,  5.66it/s]
+iter_num=52800 loss_val=0.0052
+
+
+
+
+115it [00:22,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/614_envs_3995_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([3995, 1000, 7])
+torch.Size([3995, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+61it [00:10,  5.67it/s]
+iter_num=52900 loss_val=0.0026
+
+
+
+
+
+
+
+
+
+161it [00:31,  5.67it/s]
+iter_num=53000 loss_val=0.0025
+
+
+
+
+200it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/316_envs_4020_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4020, 1000, 7])
+torch.Size([4020, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+62it [00:10,  5.66it/s]
+iter_num=53100 loss_val=0.0014
+
+
+
+
+
+
+
+
+
+
+
+164it [00:35,  1.13it/s]
+iter_num=53200 loss_val=0.0014
+
+
+
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/608_envs_3047_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3047, 1000, 7])
+torch.Size([3047, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:42,  4.78it/s]
+
+
+
+
+
+
+62it [00:10,  5.67it/s]
+iter_num=53300 loss_val=0.0049
+
+
+
+
+
+
+
+
+149it [00:28,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/838_envs_3396_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3396, 1000, 7])
+torch.Size([3396, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+153it [00:29,  5.21it/s]
+
+10it [00:01,  5.69it/s]
+iter_num=53400 loss_val=0.0035
+
+
+
+
+
+
+
+
+
+110it [00:22,  5.67it/s]
+iter_num=53500 loss_val=0.0035
+
+
+
+
+
+166it [00:34,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/333_envs_4010_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4010, 1000, 7])
+torch.Size([4010, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+170it [00:35,  4.81it/s]
+
+
+
+
+41it [00:07,  5.67it/s]
+iter_num=53600 loss_val=0.0013
+
+
+
+
+
+
+
+
+
+141it [00:28,  5.66it/s]
+iter_num=53700 loss_val=0.0012
+
+
+
+
+
+
+201it [00:42,  4.77it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/933_envs_4002_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4002, 1000, 7])
+torch.Size([4002, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+41it [00:07,  5.66it/s]
+iter_num=53800 loss_val=0.0026
+
+
+
+
+
+
+
+
+
+
+141it [00:28,  5.66it/s]
+iter_num=53900 loss_val=0.0022
+
+
+
+
+
+198it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/602_envs_4019_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4019, 1000, 7])
+torch.Size([4019, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:41,  4.82it/s]
+
+
+
+
+41it [00:07,  5.67it/s]
+iter_num=54000 loss_val=0.0015
+
+
+
+
+
+
+
+
+
+
+141it [00:28,  5.66it/s]
+iter_num=54100 loss_val=0.0017
+
+
+
+
+
+195it [00:40,  5.66it/s]
+ ----------------------------------
+Starting with file:
+
+201it [00:41,  4.80it/s]
+torch.Size([4036, 1000, 7])
+torch.Size([4036, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+41it [00:07,  5.67it/s]
+iter_num=54200 loss_val=0.0016
+
+
+
+
+
+
+
+
+
+
+141it [00:28,  5.66it/s]
+iter_num=54300 loss_val=0.0015
+
+
+
+
+
+
+202it [00:42,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/442_envs_2277_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2277, 1000, 7])
+torch.Size([2277, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+42it [00:09,  1.76it/s]
+iter_num=54400 loss_val=0.0063
+
+
+
+
+
+
+109it [00:21,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/885_envs_2251_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2251, 1000, 7])
+torch.Size([2251, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+114it [00:21,  5.19it/s]
+
+
+
+27it [00:04,  5.67it/s]
+iter_num=54500 loss_val=0.0051
+
+
+
+
+
+
+
+106it [00:20,  5.67it/s]
+ ----------------------------------
+Starting with file:
+
+113it [00:21,  5.20it/s]
+torch.Size([3648, 1000, 7])
+torch.Size([3648, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+17it [00:05,  1.27it/s]
+iter_num=54600 loss_val=0.0034
+
+
+
+
+
+
+
+
+
+115it [00:23,  5.67it/s]
+iter_num=54700 loss_val=0.0022
+
+
+
+
+
+
+183it [00:38,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/977_envs_3063_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3063, 1000, 7])
+torch.Size([3063, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+33it [00:05,  5.67it/s]
+iter_num=54800 loss_val=0.0052
+
+
+
+
+
+
+
+
+
+
+133it [00:25,  5.67it/s]
+iter_num=54900 loss_val=0.0042
+
+
+150it [00:31,  5.59it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/452_envs_4009_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4009, 1000, 7])
+torch.Size([4009, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+154it [00:31,  4.82it/s]
+
+
+
+
+
+
+
+80it [00:14,  5.67it/s]
+iter_num=55000 loss_val=0.0015
+
+
+
+
+
+
+
+
+
+
+
+183it [00:38,  1.55it/s]
+iter_num=55100 loss_val=0.0014
+
+194it [00:40,  5.38it/s]
+ ----------------------------------
+Starting with file:
+201it [00:41,  4.81it/s]
+1it [00:00,  7.52it/s]
+torch.Size([2321, 1000, 7])
+torch.Size([2321, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+
+
+
+81it [00:16,  1.34it/s]
+iter_num=55200 loss_val=0.0055
+
+
+
+115it [00:22,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/501_envs_2321_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2321, 1000, 7])
+torch.Size([2321, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+116it [00:22,  5.19it/s]
+
+
+
+
+
+
+65it [00:11,  5.66it/s]
+iter_num=55300 loss_val=0.0056
+
+
+
+
+109it [00:21,  5.66it/s]
+ ----------------------------------
+Starting with file:
+116it [00:22,  5.19it/s]
+0it [00:00, ?it/s]
+torch.Size([3084, 1000, 7])
+torch.Size([3084, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+50it [00:08,  5.67it/s]
+iter_num=55400 loss_val=0.0040
+
+
+
+
+
+
+
+
+
+
+150it [00:28,  5.67it/s]
+iter_num=55500 loss_val=0.0043
+
+155it [00:32,  4.82it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/563_envs_3998_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([3998, 1000, 7])
+torch.Size([3998, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+
+
+
+
+96it [00:16,  5.66it/s]
+iter_num=55600 loss_val=0.0032
+
+
+
+
+
+
+
+
+
+
+
+198it [00:41,  1.19it/s]
+iter_num=55700 loss_val=0.0026
+iter_num=55700 loss=0.0023 loss_val=0.0026 lr_iter=0.0005999315311703581
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/543_envs_4004_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4004, 1000, 7])
+torch.Size([4004, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+200it [00:41,  4.80it/s]
+
+
+
+
+
+
+
+
+
+
+100it [00:20,  1.55it/s]
+iter_num=55800 loss_val=0.0022
+
+
+
+
+
+
+
+
+
+197it [00:37,  5.66it/s]
+iter_num=55900 loss_val=0.0021
+iter_num=55900 loss=0.0019 loss_val=0.0021 lr_iter=0.0005999307618965834
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/843_envs_2370_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2370, 1000, 7])
+torch.Size([2370, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+201it [00:41,  4.82it/s]
+
+
+
+
+
+
+
+
+
+97it [00:17,  5.67it/s]
+iter_num=56000 loss_val=0.0055
+
+
+117it [00:22,  5.64it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/803_envs_2260_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2260, 1000, 7])
+torch.Size([2260, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+119it [00:22,  5.20it/s]
+
+
+
+
+
+
+
+79it [00:13,  5.67it/s]
+iter_num=56100 loss_val=0.0049
+
+
+
+109it [00:21,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/90_envs_2348_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2348, 1000, 7])
+torch.Size([2348, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+113it [00:21,  5.19it/s]
+
+
+
+
+
+
+67it [00:11,  5.67it/s]
+iter_num=56200 loss_val=0.0054
+
+
+
+
+
+118it [00:22,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/928_envs_3093_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3093, 1000, 7])
+torch.Size([3093, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+50it [00:08,  5.67it/s]
+iter_num=56300 loss_val=0.0040
+
+
+
+
+
+
+
+
+
+150it [00:28,  5.67it/s]
+iter_num=56400 loss_val=0.0044
+iter_num=56400 loss=0.0089 loss_val=0.0044 lr_iter=0.0005999288199133143
+ ----------------------------------
+Starting with file:
+155it [00:32,  4.80it/s]
+1it [00:00,  7.74it/s]
+torch.Size([3076, 1000, 7])
+torch.Size([3076, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+
+
+
+
+
+
+
+
+
+96it [00:16,  5.67it/s]
+iter_num=56500 loss_val=0.0037
+
+
+
+
+
+
+154it [00:29,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/43_envs_2284_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2284, 1000, 7])
+torch.Size([2284, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+
+
+
+
+43it [00:07,  5.66it/s]
+iter_num=56600 loss_val=0.0049
+
+
+
+
+
+
+112it [00:21,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/866_envs_3453_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3453, 1000, 7])
+torch.Size([3453, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+115it [00:22,  5.21it/s]
+15it [00:02,  5.67it/s]
+26it [00:04,  5.67it/s]
+29it [00:05,  5.67it/s]
+29it [00:05,  5.67it/s]
+iter_num=56700 loss_val=0.0037
+33it [00:08,  2.17it/s]
+45it [00:10,  5.54it/s]
+56it [00:12,  5.66it/s]
+68it [00:14,  5.66it/s]
+79it [00:16,  5.66it/s]
+90it [00:18,  5.66it/s]
+102it [00:20,  5.66it/s]
+113it [00:22,  5.66it/s]
+124it [00:24,  5.66it/s]
+129it [00:25,  5.66it/s]
+129it [00:25,  5.66it/s]
+iter_num=56800 loss_val=0.0029
+132it [00:28,  1.71it/s]
+143it [00:30,  5.42it/s]
+154it [00:32,  5.66it/s]
+166it [00:34,  5.66it/s]
+166it [00:34,  5.66it/s]
+ ----------------------------------
+Starting with file:
+173it [00:36,  4.80it/s]
+173it [00:36,  4.80it/s]
+torch.Size([3615, 1000, 7])
+torch.Size([3615, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.68it/s]]
+21it [00:03,  5.67it/s]]
+33it [00:05,  5.66it/s]]
+44it [00:07,  5.67it/s]]
+55it [00:09,  5.66it/s]]
+57it [00:10,  5.66it/s]]
+57it [00:10,  5.66it/s]]
+iter_num=56900 loss_val=0.0027
+62it [00:13,  2.60it/s]]
+73it [00:15,  5.53it/s]]
+85it [00:17,  5.66it/s]]
+96it [00:19,  5.66it/s]]
+107it [00:21,  5.66it/s]
+119it [00:23,  5.66it/s]
+130it [00:25,  5.66it/s]
+142it [00:27,  5.67it/s]
+153it [00:29,  5.66it/s]
+157it [00:30,  5.67it/s]
+157it [00:30,  5.67it/s]
+iter_num=57000 loss_val=0.0025
+159it [00:33,  1.28it/s]
+171it [00:35,  5.41it/s]
+181it [00:37,  4.80it/s]
+181it [00:37,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/858_envs_2278_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2278, 1000, 7])
+torch.Size([2278, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.70it/s]s]
+19it [00:03,  5.66it/s]]
+31it [00:05,  5.66it/s]]
+42it [00:07,  5.66it/s]]
+53it [00:09,  5.66it/s]]
+65it [00:11,  5.66it/s]]
+76it [00:13,  5.66it/s]]
+77it [00:13,  5.66it/s]]
+77it [00:13,  5.66it/s]]
+iter_num=57100 loss_val=0.0058
+88it [00:17,  5.20it/s]]
+100it [00:19,  5.65it/s]
+111it [00:21,  5.66it/s]
+111it [00:21,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/406_envs_2342_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2342, 1000, 7])
+torch.Size([2342, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.86it/s]s]
+15it [00:02,  5.67it/s]]
+27it [00:04,  5.66it/s]]
+38it [00:06,  5.67it/s]]
+50it [00:08,  5.66it/s]]
+61it [00:10,  5.67it/s]]
+64it [00:11,  5.67it/s]]
+64it [00:11,  5.67it/s]]
+iter_num=57200 loss_val=0.0065
+73it [00:14,  4.77it/s]]
+84it [00:16,  5.64it/s]]
+96it [00:18,  5.67it/s]]
+107it [00:20,  5.67it/s]
+118it [00:22,  5.21it/s]
+118it [00:22,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/365_envs_4020_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4020, 1000, 7])
+torch.Size([4020, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+18it [00:03,  5.67it/s]]
+29it [00:05,  5.66it/s]]
+41it [00:07,  5.65it/s]]
+47it [00:08,  5.66it/s]]
+47it [00:08,  5.66it/s]]
+iter_num=57300 loss_val=0.0016
+57it [00:13,  4.65it/s]]
+68it [00:15,  5.64it/s]]
+80it [00:17,  5.66it/s]]
+90it [00:19,  5.66it/s]]
+102it [00:21,  5.66it/s]
+114it [00:23,  5.66it/s]
+125it [00:25,  5.66it/s]
+137it [00:27,  5.66it/s]
+147it [00:29,  5.66it/s]
+147it [00:29,  5.66it/s]
+iter_num=57400 loss_val=0.0014
+153it [00:33,  2.96it/s]
+164it [00:35,  5.56it/s]
+175it [00:37,  5.66it/s]
+187it [00:39,  5.66it/s]
+198it [00:41,  5.66it/s]
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/153_envs_3668_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3668, 1000, 7])
+torch.Size([3668, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.00it/s]s]
+14it [00:02,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+37it [00:06,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+iter_num=57500 loss_val=0.0026
+54it [00:12,  3.58it/s]]
+66it [00:14,  5.62it/s]]
+77it [00:16,  5.67it/s]]
+89it [00:18,  5.67it/s]]
+100it [00:20,  5.67it/s]
+111it [00:22,  5.67it/s]
+123it [00:24,  5.66it/s]
+134it [00:26,  5.67it/s]
+146it [00:28,  5.67it/s]
+147it [00:28,  5.67it/s]
+147it [00:28,  5.67it/s]
+iter_num=57600 loss_val=0.0030
+152it [00:32,  2.58it/s]
+163it [00:34,  5.53it/s]
+175it [00:36,  5.66it/s]
+184it [00:38,  4.81it/s]
+184it [00:38,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/696_envs_4030_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4030, 1000, 7])
+torch.Size([4030, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.70it/s]s]
+20it [00:03,  5.66it/s]]
+31it [00:05,  5.66it/s]]
+42it [00:07,  5.66it/s]]
+54it [00:09,  5.66it/s]]
+64it [00:11,  5.66it/s]]
+64it [00:11,  5.66it/s]]
+iter_num=57700 loss_val=0.0013
+70it [00:15,  2.96it/s]]
+81it [00:17,  5.56it/s]]
+93it [00:19,  5.66it/s]]
+104it [00:21,  5.66it/s]
+115it [00:23,  5.66it/s]
+127it [00:25,  5.66it/s]
+138it [00:27,  5.66it/s]
+150it [00:29,  5.66it/s]
+161it [00:31,  5.66it/s]
+164it [00:32,  5.66it/s]
+164it [00:32,  5.66it/s]
+iter_num=57800 loss_val=0.0016
+166it [00:35,  1.18it/s]
+177it [00:37,  5.27it/s]
+188it [00:39,  5.66it/s]
+200it [00:41,  5.66it/s]
+200it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/22_envs_3657_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3657, 1000, 7])
+torch.Size([3657, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.79it/s]s]
+16it [00:02,  5.66it/s]]
+27it [00:04,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+50it [00:08,  5.67it/s]]
+61it [00:10,  5.67it/s]]
+63it [00:11,  5.67it/s]]
+63it [00:11,  5.67it/s]]
+iter_num=57900 loss_val=0.0027
+68it [00:14,  2.59it/s]]
+79it [00:16,  5.54it/s]]
+91it [00:18,  5.66it/s]]
+102it [00:20,  5.67it/s]
+113it [00:22,  5.67it/s]
+125it [00:24,  5.67it/s]
+136it [00:26,  5.67it/s]
+147it [00:28,  5.67it/s]
+159it [00:30,  5.67it/s]
+163it [00:31,  5.66it/s]
+163it [00:31,  5.66it/s]
+iter_num=58000 loss_val=0.0024
+165it [00:34,  1.27it/s]
+177it [00:37,  5.41it/s]
+177it [00:37,  5.41it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/618_envs_3430_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3430, 1000, 7])
+torch.Size([3430, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+0it [00:00, ?it/s]0it/s]
+12it [00:02,  5.67it/s]]
+23it [00:04,  5.67it/s]]
+34it [00:05,  5.67it/s]]
+46it [00:08,  5.67it/s]]
+57it [00:10,  5.66it/s]]
+69it [00:12,  5.67it/s]]
+80it [00:14,  5.66it/s]]
+81it [00:14,  5.67it/s]]
+81it [00:14,  5.67it/s]]
+iter_num=58100 loss_val=0.0033
+87it [00:18,  3.18it/s]]
+99it [00:20,  5.61it/s]]
+110it [00:22,  5.67it/s]
+121it [00:24,  5.66it/s]
+133it [00:26,  5.67it/s]
+144it [00:28,  5.66it/s]
+156it [00:30,  5.67it/s]
+167it [00:32,  5.67it/s]
+167it [00:32,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/115_envs_4032_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4032, 1000, 7])
+torch.Size([4032, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.31it/s]s]
+10it [00:01,  5.68it/s]]
+10it [00:01,  5.68it/s]]
+iter_num=58200 loss_val=0.0045
+17it [00:06,  3.45it/s]]
+29it [00:08,  5.62it/s]]
+40it [00:10,  5.66it/s]]
+51it [00:12,  5.66it/s]]
+63it [00:14,  5.66it/s]]
+74it [00:16,  5.67it/s]]
+86it [00:18,  5.67it/s]]
+97it [00:20,  5.66it/s]]
+108it [00:22,  5.66it/s]
+110it [00:22,  5.67it/s]
+110it [00:22,  5.67it/s]
+iter_num=58300 loss_val=0.0016
+113it [00:26,  1.55it/s]
+124it [00:28,  5.38it/s]
+136it [00:30,  5.66it/s]
+147it [00:32,  5.67it/s]
+159it [00:34,  5.67it/s]
+170it [00:36,  5.67it/s]
+181it [00:38,  5.67it/s]
+193it [00:40,  5.67it/s]
+202it [00:41,  4.81it/s]
+202it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/324_envs_3659_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3659, 1000, 7])
+torch.Size([3659, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.70it/s]s]
+9it [00:01,  5.69it/s]s]
+9it [00:01,  5.69it/s]s]
+iter_num=58400 loss_val=0.0046
+15it [00:05,  3.09it/s]]
+26it [00:07,  5.58it/s]]
+38it [00:09,  5.67it/s]]
+49it [00:11,  5.67it/s]]
+60it [00:13,  5.67it/s]]
+72it [00:15,  5.67it/s]]
+83it [00:17,  5.66it/s]]
+94it [00:19,  5.67it/s]]
+106it [00:21,  5.67it/s]
+109it [00:22,  5.66it/s]
+112it [00:25,  1.65it/s]
+112it [00:25,  1.65it/s]
+iter_num=58500 loss_val=0.0030
+124it [00:27,  5.48it/s]
+135it [00:29,  5.66it/s]
+146it [00:31,  5.66it/s]
+157it [00:33,  5.67it/s]
+169it [00:35,  5.67it/s]
+181it [00:37,  5.66it/s]
+181it [00:37,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/79_envs_4043_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4043, 1000, 7])
+torch.Size([4043, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.84it/s]s]
+15it [00:02,  5.66it/s]]
+26it [00:04,  5.66it/s]]
+27it [00:04,  5.66it/s]]
+31it [00:08,  1.97it/s]]
+31it [00:08,  1.97it/s]]
+iter_num=58600 loss_val=0.0019
+42it [00:10,  5.46it/s]]
+54it [00:12,  5.66it/s]]
+65it [00:14,  5.66it/s]]
+77it [00:16,  5.66it/s]]
+88it [00:18,  5.66it/s]]
+99it [00:20,  5.66it/s]]
+111it [00:22,  5.66it/s]
+122it [00:24,  5.66it/s]
+127it [00:25,  5.66it/s]
+127it [00:25,  5.66it/s]
+iter_num=58700 loss_val=0.0013
+138it [00:30,  4.91it/s]
+149it [00:32,  5.64it/s]
+161it [00:34,  5.66it/s]
+172it [00:36,  5.66it/s]
+184it [00:38,  5.66it/s]
+195it [00:40,  5.66it/s]
+203it [00:42,  4.81it/s]
+203it [00:42,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/859_envs_3021_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3021, 1000, 7])
+torch.Size([3021, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+11it [00:01,  5.68it/s]]
+22it [00:03,  5.67it/s]]
+25it [00:04,  5.66it/s]]
+25it [00:04,  5.66it/s]]
+iter_num=58800 loss_val=0.0055
+31it [00:07,  3.34it/s]]
+42it [00:09,  5.59it/s]]
+54it [00:11,  5.66it/s]]
+65it [00:13,  5.66it/s]]
+76it [00:15,  5.67it/s]]
+88it [00:17,  5.67it/s]]
+99it [00:19,  5.66it/s]]
+111it [00:21,  5.67it/s]
+122it [00:23,  5.67it/s]
+125it [00:24,  5.67it/s]
+125it [00:24,  5.67it/s]
+iter_num=58900 loss_val=0.0044
+131it [00:27,  3.34it/s]
+142it [00:29,  5.59it/s]
+151it [00:31,  4.79it/s]
+151it [00:31,  4.79it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/252_envs_3677_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3677, 1000, 7])
+torch.Size([3677, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+21it [00:03,  5.67it/s]]
+32it [00:05,  5.67it/s]]
+43it [00:07,  5.66it/s]]
+55it [00:09,  5.67it/s]]
+66it [00:11,  5.65it/s]]
+75it [00:13,  5.67it/s]]
+75it [00:13,  5.67it/s]]
+iter_num=59000 loss_val=0.0027
+84it [00:17,  4.40it/s]]
+95it [00:19,  5.63it/s]]
+106it [00:21,  5.66it/s]
+118it [00:23,  5.67it/s]
+129it [00:25,  5.67it/s]
+141it [00:27,  5.66it/s]
+152it [00:29,  5.67it/s]
+163it [00:31,  5.66it/s]
+175it [00:33,  5.67it/s]
+175it [00:33,  5.67it/s]
+iter_num=59100 loss_val=0.0026
+181it [00:37,  3.08it/s]
+181it [00:37,  3.08it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/459_envs_2296_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2296, 1000, 7])
+torch.Size([2296, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.87it/s]s]
+16it [00:02,  5.67it/s]]
+27it [00:04,  5.66it/s]]
+36it [00:06,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+58it [00:10,  5.67it/s]]
+70it [00:12,  5.67it/s]]
+81it [00:14,  5.66it/s]]
+92it [00:16,  5.67it/s]]
+93it [00:18,  1.35it/s]]
+93it [00:18,  1.35it/s]]
+iter_num=59200 loss_val=0.0062
+105it [00:20,  5.43it/s]
+115it [00:22,  5.19it/s]
+115it [00:22,  5.19it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/521_envs_3425_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3425, 1000, 7])
+torch.Size([3425, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.70it/s]s]
+19it [00:03,  5.67it/s]]
+30it [00:05,  5.66it/s]]
+42it [00:07,  5.66it/s]]
+53it [00:09,  5.66it/s]]
+64it [00:11,  5.66it/s]]
+76it [00:13,  5.66it/s]]
+78it [00:13,  5.66it/s]]
+78it [00:13,  5.66it/s]]
+iter_num=59300 loss_val=0.0028
+83it [00:17,  2.67it/s]]
+95it [00:19,  5.58it/s]]
+106it [00:21,  5.66it/s]
+117it [00:23,  5.66it/s]
+129it [00:25,  5.66it/s]
+140it [00:27,  5.66it/s]
+151it [00:29,  5.66it/s]
+163it [00:31,  5.66it/s]
+172it [00:33,  5.21it/s]
+172it [00:33,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/626_envs_4007_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4007, 1000, 7])
+torch.Size([4007, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.73it/s]s]
+7it [00:01,  5.73it/s]s]
+iter_num=59400 loss_val=0.0055
+13it [00:05,  2.96it/s]]
+25it [00:07,  5.60it/s]]
+36it [00:09,  5.67it/s]]
+48it [00:11,  5.67it/s]]
+59it [00:13,  5.67it/s]]
+70it [00:15,  5.67it/s]]
+82it [00:17,  5.67it/s]]
+93it [00:19,  5.67it/s]]
+105it [00:21,  5.67it/s]
+107it [00:22,  5.67it/s]
+107it [00:22,  5.67it/s]
+iter_num=59500 loss_val=0.0021
+109it [00:25,  1.18it/s]
+121it [00:27,  5.38it/s]
+132it [00:29,  5.66it/s]
+144it [00:31,  5.67it/s]
+155it [00:33,  5.67it/s]
+166it [00:35,  5.66it/s]
+178it [00:37,  5.66it/s]
+189it [00:39,  5.67it/s]
+201it [00:41,  4.82it/s]
+201it [00:41,  4.82it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/590_envs_2293_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2293, 1000, 7])
+torch.Size([2293, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+7it [00:01,  5.72it/s]s]
+iter_num=59600 loss_val=0.0062
+19it [00:05,  5.32it/s]]
+30it [00:07,  5.66it/s]]
+42it [00:09,  5.66it/s]]
+53it [00:11,  5.67it/s]]
+64it [00:13,  5.66it/s]]
+76it [00:15,  5.67it/s]]
+87it [00:17,  5.66it/s]]
+98it [00:19,  5.66it/s]]
+107it [00:20,  5.66it/s]
+107it [00:20,  5.66it/s]
+iter_num=59700 loss_val=0.0048
+111it [00:23,  2.70it/s]
+111it [00:23,  2.70it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/132_envs_4033_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4033, 1000, 7])
+torch.Size([4033, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+2it [00:00,  6.25it/s]s]
+13it [00:02,  5.68it/s]]
+25it [00:04,  5.67it/s]]
+36it [00:06,  5.67it/s]]
+48it [00:08,  5.67it/s]]
+59it [00:10,  5.67it/s]]
+70it [00:12,  5.67it/s]]
+82it [00:14,  5.67it/s]]
+93it [00:16,  5.67it/s]]
+93it [00:16,  5.67it/s]]
+iter_num=59800 loss_val=0.0016
+98it [00:20,  2.46it/s]]
+109it [00:22,  5.53it/s]
+121it [00:24,  5.67it/s]
+132it [00:26,  5.67it/s]
+143it [00:28,  5.66it/s]
+155it [00:30,  5.67it/s]
+166it [00:32,  5.67it/s]
+178it [00:34,  5.67it/s]
+189it [00:36,  5.67it/s]
+193it [00:37,  5.67it/s]
+194it [00:40,  1.13s/it]
+194it [00:40,  1.13s/it]
+iter_num=59900 loss_val=0.0014
+iter_num=59900 loss=0.0013 loss_val=0.0014 lr_iter=0.0005999144740926456
+ ----------------------------------
+Starting with file:
+202it [00:41,  4.81it/s]
+202it [00:41,  4.81it/s]
+torch.Size([4018, 1000, 7])
+torch.Size([4018, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.68it/s]]
+21it [00:03,  5.66it/s]]
+32it [00:05,  5.66it/s]]
+44it [00:07,  5.66it/s]]
+55it [00:09,  5.66it/s]]
+67it [00:11,  5.66it/s]]
+78it [00:13,  5.66it/s]]
+89it [00:15,  5.66it/s]]
+92it [00:16,  5.66it/s]]
+92it [00:16,  5.66it/s]]
+iter_num=60000 loss_val=0.0014
+94it [00:19,  1.18it/s]]
+105it [00:21,  5.27it/s]
+117it [00:23,  5.65it/s]
+128it [00:25,  5.66it/s]
+139it [00:27,  5.66it/s]
+151it [00:29,  5.66it/s]
+162it [00:31,  5.66it/s]
+174it [00:33,  5.66it/s]
+185it [00:35,  5.66it/s]
+192it [00:37,  5.66it/s]
+192it [00:37,  5.66it/s]
+iter_num=60100 loss_val=0.0013
+201it [00:41,  4.80it/s]
+201it [00:41,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/545_envs_2306_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2306, 1000, 7])
+torch.Size([2306, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+6it [00:01,  5.75it/s]s]
+18it [00:03,  5.67it/s]]
+29it [00:05,  5.67it/s]]
+41it [00:07,  5.67it/s]]
+52it [00:09,  5.67it/s]]
+63it [00:11,  5.67it/s]]
+75it [00:13,  5.67it/s]]
+86it [00:15,  5.67it/s]]
+92it [00:16,  5.67it/s]]
+92it [00:16,  5.67it/s]]
+iter_num=60200 loss_val=0.0045
+98it [00:19,  3.68it/s]]
+110it [00:21,  5.63it/s]
+110it [00:21,  5.63it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/292_envs_3391_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3391, 1000, 7])
+torch.Size([3391, 1000, 14])
+0it [00:00, ?it/s]1it/s]
+0it [00:00, ?it/s]1it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+12it [00:02,  5.68it/s]]
+23it [00:04,  5.67it/s]]
+34it [00:05,  5.67it/s]]
+46it [00:08,  5.67it/s]]
+57it [00:10,  5.67it/s]]
+69it [00:12,  5.67it/s]]
+77it [00:13,  5.66it/s]]
+77it [00:13,  5.66it/s]]
+iter_num=60300 loss_val=0.0030
+87it [00:18,  4.78it/s]]
+99it [00:20,  5.65it/s]]
+110it [00:22,  5.66it/s]
+122it [00:24,  5.66it/s]
+133it [00:26,  5.66it/s]
+144it [00:28,  5.67it/s]
+156it [00:30,  5.66it/s]
+167it [00:32,  5.66it/s]
+167it [00:32,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/601_envs_3662_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3662, 1000, 7])
+torch.Size([3662, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.87it/s]s]
+8it [00:01,  5.71it/s]s]
+8it [00:01,  5.71it/s]s]
+10it [00:04,  1.24it/s]]
+10it [00:04,  1.24it/s]]
+21it [00:06,  5.30it/s]]
+33it [00:08,  5.66it/s]]
+44it [00:10,  5.67it/s]]
+55it [00:12,  5.66it/s]]
+67it [00:14,  5.67it/s]]
+78it [00:16,  5.66it/s]]
+90it [00:18,  5.66it/s]]
+101it [00:20,  5.67it/s]
+108it [00:21,  5.66it/s]
+108it [00:21,  5.66it/s]
+iter_num=60500 loss_val=0.0024
+119it [00:26,  4.97it/s]
+130it [00:28,  5.65it/s]
+141it [00:30,  5.67it/s]
+153it [00:32,  5.66it/s]
+164it [00:34,  5.66it/s]
+176it [00:36,  5.66it/s]
+184it [00:38,  4.82it/s]
+184it [00:38,  4.82it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/828_envs_3401_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3401, 1000, 7])
+torch.Size([3401, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+21it [00:03,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+iter_num=60600 loss_val=0.0029
+28it [00:07,  1.74it/s]]
+40it [00:09,  5.49it/s]]
+51it [00:11,  5.66it/s]]
+62it [00:13,  5.67it/s]]
+74it [00:15,  5.67it/s]]
+85it [00:17,  5.66it/s]]
+97it [00:19,  5.67it/s]]
+108it [00:21,  5.66it/s]
+119it [00:23,  5.66it/s]
+125it [00:24,  5.66it/s]
+127it [00:27,  1.34it/s]
+127it [00:27,  1.34it/s]
+iter_num=60700 loss_val=0.0037
+138it [00:29,  5.32it/s]
+149it [00:31,  5.65it/s]
+161it [00:33,  5.66it/s]
+170it [00:35,  4.80it/s]
+170it [00:35,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/156_envs_3657_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3657, 1000, 7])
+torch.Size([3657, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.71it/s]s]
+20it [00:03,  5.67it/s]]
+31it [00:05,  5.67it/s]]
+43it [00:07,  5.66it/s]]
+54it [00:09,  5.66it/s]]
+56it [00:09,  5.67it/s]]
+56it [00:09,  5.67it/s]]
+iter_num=60800 loss_val=0.0029
+60it [00:13,  2.10it/s]]
+72it [00:15,  5.53it/s]]
+83it [00:17,  5.66it/s]]
+94it [00:19,  5.67it/s]]
+106it [00:21,  5.66it/s]
+117it [00:23,  5.66it/s]
+129it [00:25,  5.66it/s]
+140it [00:27,  5.66it/s]
+151it [00:29,  5.67it/s]
+156it [00:30,  5.67it/s]
+158it [00:33,  1.27it/s]
+158it [00:33,  1.27it/s]
+iter_num=60900 loss_val=0.0022
+169it [00:35,  5.30it/s]
+180it [00:37,  5.66it/s]
+180it [00:37,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/929_envs_2329_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2329, 1000, 7])
+torch.Size([2329, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.86it/s]s]
+16it [00:02,  5.66it/s]]
+27it [00:04,  5.66it/s]]
+39it [00:06,  5.66it/s]]
+50it [00:08,  5.66it/s]]
+61it [00:10,  5.66it/s]]
+73it [00:12,  5.66it/s]]
+74it [00:13,  5.66it/s]]
+74it [00:13,  5.66it/s]]
+iter_num=61000 loss_val=0.0053
+85it [00:16,  5.19it/s]]
+96it [00:18,  5.65it/s]]
+107it [00:20,  5.66it/s]
+117it [00:22,  5.20it/s]
+117it [00:22,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/457_envs_3028_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3028, 1000, 7])
+torch.Size([3028, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+20it [00:03,  5.67it/s]]
+32it [00:05,  5.67it/s]]
+43it [00:07,  5.67it/s]]
+55it [00:09,  5.67it/s]]
+58it [00:10,  5.67it/s]]
+58it [00:10,  5.67it/s]]
+iter_num=61100 loss_val=0.0037
+64it [00:13,  3.35it/s]]
+74it [00:15,  5.56it/s]]
+86it [00:17,  5.67it/s]]
+98it [00:19,  5.67it/s]]
+109it [00:21,  5.67it/s]
+121it [00:23,  5.67it/s]
+132it [00:25,  5.67it/s]
+143it [00:27,  5.67it/s]
+152it [00:29,  5.21it/s]
+152it [00:29,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/522_envs_3010_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3010, 1000, 7])
+torch.Size([3010, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+7it [00:01,  5.72it/s]s]
+iter_num=61200 loss_val=0.0041
+19it [00:05,  5.24it/s]]
+30it [00:07,  5.66it/s]]
+42it [00:09,  5.67it/s]]
+53it [00:11,  5.67it/s]]
+64it [00:13,  5.67it/s]]
+75it [00:15,  5.66it/s]]
+87it [00:17,  5.66it/s]]
+99it [00:19,  5.67it/s]]
+107it [00:21,  5.67it/s]
+108it [00:23,  1.11it/s]
+108it [00:23,  1.11it/s]
+iter_num=61300 loss_val=0.0033
+119it [00:25,  5.24it/s]
+130it [00:27,  5.66it/s]
+142it [00:29,  5.67it/s]
+151it [00:31,  4.81it/s]
+151it [00:31,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/441_envs_3658_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3658, 1000, 7])
+torch.Size([3658, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+20it [00:03,  5.67it/s]]
+32it [00:05,  5.66it/s]]
+43it [00:07,  5.66it/s]]
+54it [00:09,  5.67it/s]]
+57it [00:10,  5.66it/s]]
+57it [00:10,  5.66it/s]]
+iter_num=61400 loss_val=0.0018
+59it [00:13,  1.27it/s]]
+72it [00:15,  5.48it/s]]
+84it [00:17,  5.66it/s]]
+95it [00:19,  5.66it/s]]
+106it [00:21,  5.67it/s]
+118it [00:23,  5.66it/s]
+129it [00:25,  5.66it/s]
+140it [00:27,  5.66it/s]
+152it [00:29,  5.66it/s]
+157it [00:30,  5.66it/s]
+158it [00:33,  1.05s/it]
+158it [00:33,  1.05s/it]
+iter_num=61500 loss_val=0.0025
+170it [00:35,  5.30it/s]
+181it [00:37,  5.66it/s]
+181it [00:37,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/667_envs_4026_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4026, 1000, 7])
+torch.Size([4026, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.86it/s]s]
+16it [00:02,  5.67it/s]]
+27it [00:04,  5.66it/s]]
+38it [00:06,  5.66it/s]]
+50it [00:08,  5.66it/s]]
+61it [00:10,  5.66it/s]]
+73it [00:12,  5.67it/s]]
+75it [00:13,  5.66it/s]]
+75it [00:13,  5.66it/s]]
+77it [00:16,  1.18it/s]]
+77it [00:16,  1.18it/s]]
+89it [00:18,  5.38it/s]]
+100it [00:20,  5.66it/s]
+111it [00:22,  5.66it/s]
+123it [00:24,  5.66it/s]
+134it [00:26,  5.66it/s]
+146it [00:28,  5.66it/s]
+154it [00:30,  5.66it/s]
+168it [00:32,  5.66it/s]
+175it [00:34,  5.66it/s]
+175it [00:34,  5.66it/s]
+iter_num=61700 loss_val=0.0013
+181it [00:38,  2.96it/s]
+193it [00:40,  5.59it/s]
+193it [00:40,  5.59it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/271_envs_4025_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4025, 1000, 7])
+torch.Size([4025, 1000, 14])
+202it [00:41,  4.81it/s]
+202it [00:41,  4.81it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+20it [00:03,  5.67it/s]]
+31it [00:05,  5.66it/s]]
+43it [00:07,  5.66it/s]]
+54it [00:09,  5.66it/s]]
+66it [00:11,  5.66it/s]]
+74it [00:13,  5.66it/s]]
+74it [00:13,  5.66it/s]]
+iter_num=61800 loss_val=0.0012
+81it [00:17,  3.38it/s]]
+92it [00:19,  5.59it/s]]
+102it [00:21,  5.66it/s]
+115it [00:23,  5.66it/s]
+126it [00:25,  5.66it/s]
+137it [00:27,  5.66it/s]
+149it [00:29,  5.66it/s]
+160it [00:31,  5.66it/s]
+172it [00:33,  5.66it/s]
+174it [00:34,  5.66it/s]
+174it [00:34,  5.66it/s]
+175it [00:37,  1.19s/it]
+175it [00:37,  1.19s/it]
+187it [00:39,  5.25it/s]
+198it [00:41,  5.66it/s]
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/869_envs_3640_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3640, 1000, 7])
+torch.Size([3640, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  5.98it/s]s]
+14it [00:02,  5.67it/s]]
+26it [00:04,  5.66it/s]]
+37it [00:06,  5.66it/s]]
+48it [00:08,  5.66it/s]]
+60it [00:10,  5.67it/s]]
+71it [00:12,  5.66it/s]]
+73it [00:12,  5.66it/s]]
+73it [00:12,  5.66it/s]]
+iter_num=62000 loss_val=0.0024
+78it [00:16,  2.59it/s]]
+89it [00:18,  5.53it/s]]
+100it [00:20,  5.66it/s]
+112it [00:22,  5.66it/s]
+123it [00:24,  5.66it/s]
+135it [00:26,  5.66it/s]
+146it [00:28,  5.67it/s]
+157it [00:30,  5.66it/s]
+169it [00:32,  5.66it/s]
+173it [00:33,  5.66it/s]
+175it [00:36,  1.27it/s]
+175it [00:36,  1.27it/s]
+iter_num=62100 loss_val=0.0022
+iter_num=62100 loss=0.0024 loss_val=0.0022 lr_iter=0.0005999047832196097
+ ----------------------------------
+Starting with file:
+0it [00:00, ?it/s]0it/s]
+0it [00:00, ?it/s]0it/s]
+torch.Size([2303, 1000, 7])
+torch.Size([2303, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+12it [00:02,  5.67it/s]]
+23it [00:04,  5.67it/s]]
+34it [00:05,  5.67it/s]]
+46it [00:08,  5.67it/s]]
+57it [00:10,  5.67it/s]]
+69it [00:12,  5.67it/s]]
+80it [00:14,  5.67it/s]]
+91it [00:16,  5.67it/s]]
+92it [00:16,  5.67it/s]]
+92it [00:16,  5.67it/s]]
+iter_num=62200 loss_val=0.0042
+103it [00:20,  5.20it/s]
+115it [00:22,  5.66it/s]
+115it [00:22,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/531_envs_2280_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2280, 1000, 7])
+torch.Size([2280, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+6it [00:01,  5.75it/s]s]
+18it [00:03,  5.67it/s]]
+29it [00:05,  5.67it/s]]
+41it [00:07,  5.67it/s]]
+52it [00:09,  5.67it/s]]
+63it [00:11,  5.66it/s]]
+75it [00:13,  5.67it/s]]
+77it [00:13,  5.67it/s]]
+77it [00:13,  5.67it/s]]
+iter_num=62300 loss_val=0.0047
+87it [00:17,  5.03it/s]]
+98it [00:19,  5.65it/s]]
+110it [00:21,  5.67it/s]
+110it [00:21,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/234_envs_3646_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3646, 1000, 7])
+torch.Size([3646, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+2it [00:00,  6.29it/s]s]
+13it [00:02,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+36it [00:06,  5.66it/s]]
+47it [00:08,  5.67it/s]]
+59it [00:10,  5.66it/s]]
+64it [00:11,  5.67it/s]]
+65it [00:14,  1.05s/it]]
+65it [00:14,  1.05s/it]]
+iter_num=62400 loss_val=0.0021
+77it [00:16,  5.30it/s]]
+88it [00:18,  5.66it/s]]
+99it [00:20,  5.66it/s]]
+111it [00:22,  5.66it/s]
+122it [00:24,  5.67it/s]
+134it [00:26,  5.67it/s]
+145it [00:28,  5.67it/s]
+156it [00:30,  5.66it/s]
+164it [00:31,  5.67it/s]
+164it [00:31,  5.67it/s]
+iter_num=62500 loss_val=0.0022
+174it [00:36,  4.72it/s]
+183it [00:38,  4.81it/s]
+183it [00:38,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/420_envs_3421_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3421, 1000, 7])
+torch.Size([3421, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+21it [00:03,  5.66it/s]]
+32it [00:05,  5.66it/s]]
+44it [00:07,  5.66it/s]]
+55it [00:09,  5.66it/s]]
+66it [00:11,  5.66it/s]]
+78it [00:13,  5.66it/s]]
+82it [00:14,  5.66it/s]]
+82it [00:14,  5.66it/s]]
+iter_num=62600 loss_val=0.0026
+85it [00:17,  1.73it/s]]
+96it [00:19,  5.42it/s]]
+108it [00:21,  5.66it/s]
+119it [00:23,  5.66it/s]
+131it [00:25,  5.66it/s]
+142it [00:27,  5.66it/s]
+153it [00:29,  5.67it/s]
+165it [00:31,  5.66it/s]
+165it [00:31,  5.66it/s]
+ ----------------------------------
+Starting with file:
+0it [00:00, ?it/s]9it/s]
+0it [00:00, ?it/s]9it/s]
+torch.Size([3452, 1000, 7])
+torch.Size([3452, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+11it [00:01,  5.68it/s]]
+12it [00:02,  5.68it/s]]
+12it [00:02,  5.68it/s]]
+iter_num=62700 loss_val=0.0024
+19it [00:06,  3.65it/s]]
+30it [00:08,  5.61it/s]]
+41it [00:09,  5.67it/s]]
+53it [00:12,  5.67it/s]]
+64it [00:14,  5.67it/s]]
+75it [00:15,  5.67it/s]]
+87it [00:18,  5.67it/s]]
+98it [00:20,  5.67it/s]]
+110it [00:22,  5.67it/s]
+112it [00:22,  5.67it/s]
+112it [00:22,  5.67it/s]
+iter_num=62800 loss_val=0.0032
+117it [00:26,  2.67it/s]
+128it [00:28,  5.55it/s]
+140it [00:30,  5.67it/s]
+151it [00:32,  5.67it/s]
+163it [00:34,  5.67it/s]
+173it [00:35,  4.81it/s]
+173it [00:35,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/867_envs_4029_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4029, 1000, 7])
+torch.Size([4029, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+19it [00:03,  5.66it/s]]
+30it [00:05,  5.66it/s]]
+40it [00:07,  5.66it/s]]
+40it [00:07,  5.66it/s]]
+iter_num=62900 loss_val=0.0013
+46it [00:11,  2.96it/s]]
+58it [00:13,  5.59it/s]]
+69it [00:15,  5.66it/s]]
+80it [00:17,  5.66it/s]]
+92it [00:19,  5.66it/s]]
+103it [00:21,  5.66it/s]
+115it [00:23,  5.66it/s]
+126it [00:25,  5.66it/s]
+137it [00:27,  5.66it/s]
+140it [00:27,  5.66it/s]
+141it [00:31,  1.19s/it]
+141it [00:31,  1.19s/it]
+iter_num=63000 loss_val=0.0011
+152it [00:33,  5.08it/s]
+164it [00:35,  5.65it/s]
+175it [00:37,  5.66it/s]
+186it [00:39,  5.66it/s]
+198it [00:41,  5.66it/s]
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/451_envs_3644_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3644, 1000, 7])
+torch.Size([3644, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+2it [00:00,  6.33it/s]s]
+14it [00:02,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+37it [00:06,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+iter_num=63100 loss_val=0.0023
+43it [00:10,  2.10it/s]]
+54it [00:12,  5.48it/s]]
+66it [00:14,  5.66it/s]]
+77it [00:16,  5.67it/s]]
+89it [00:18,  5.67it/s]]
+100it [00:20,  5.67it/s]
+111it [00:22,  5.67it/s]
+123it [00:24,  5.67it/s]
+134it [00:26,  5.66it/s]
+139it [00:27,  5.67it/s]
+140it [00:30,  1.05s/it]
+140it [00:30,  1.05s/it]
+iter_num=63200 loss_val=0.0024
+152it [00:32,  5.31it/s]
+163it [00:34,  5.66it/s]
+175it [00:36,  5.67it/s]
+183it [00:38,  4.82it/s]
+183it [00:38,  4.82it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/304_envs_3071_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3071, 1000, 7])
+torch.Size([3071, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.69it/s]]
+21it [00:03,  5.67it/s]]
+33it [00:05,  5.67it/s]]
+44it [00:07,  5.67it/s]]
+55it [00:09,  5.67it/s]]
+57it [00:10,  5.67it/s]]
+57it [00:10,  5.67it/s]]
+iter_num=63300 loss_val=0.0037
+64it [00:13,  3.79it/s]]
+76it [00:15,  5.63it/s]]
+87it [00:17,  5.67it/s]]
+98it [00:19,  5.67it/s]]
+110it [00:21,  5.67it/s]
+121it [00:23,  5.67it/s]
+133it [00:25,  5.67it/s]
+144it [00:27,  5.67it/s]
+154it [00:29,  5.21it/s]
+154it [00:29,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/357_envs_4020_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4020, 1000, 7])
+torch.Size([4020, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.84it/s]s]
+4it [00:00,  5.84it/s]s]
+iter_num=63400 loss_val=0.0049
+13it [00:05,  4.31it/s]]
+24it [00:07,  5.63it/s]]
+35it [00:09,  5.66it/s]]
+47it [00:11,  5.66it/s]]
+58it [00:13,  5.66it/s]]
+70it [00:15,  5.66it/s]]
+81it [00:17,  5.66it/s]]
+92it [00:19,  5.66it/s]]
+104it [00:21,  5.66it/s]
+104it [00:21,  5.66it/s]
+iter_num=63500 loss_val=0.0011
+109it [00:25,  2.46it/s]
+120it [00:27,  5.52it/s]
+131it [00:29,  5.66it/s]
+143it [00:31,  5.66it/s]
+154it [00:33,  5.66it/s]
+165it [00:35,  5.66it/s]
+177it [00:37,  5.66it/s]
+188it [00:39,  5.66it/s]
+200it [00:41,  5.66it/s]
+200it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/365_envs_3061_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3061, 1000, 7])
+torch.Size([3061, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.86it/s]s]
+4it [00:00,  5.86it/s]s]
+iter_num=63600 loss_val=0.0068
+14it [00:04,  4.84it/s]]
+26it [00:07,  5.65it/s]]
+37it [00:08,  5.66it/s]]
+48it [00:10,  5.66it/s]]
+60it [00:13,  5.66it/s]]
+71it [00:14,  5.66it/s]]
+82it [00:16,  5.67it/s]]
+94it [00:19,  5.66it/s]]
+104it [00:20,  5.66it/s]
+104it [00:20,  5.66it/s]
+iter_num=63700 loss_val=0.0039
+114it [00:25,  4.85it/s]
+125it [00:26,  5.64it/s]
+137it [00:29,  5.66it/s]
+148it [00:31,  5.66it/s]
+148it [00:31,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/407_envs_4007_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4007, 1000, 7])
+torch.Size([4007, 1000, 14])
+1it [00:00,  7.34it/s]s]
+1it [00:00,  7.34it/s]s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+13it [00:02,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+36it [00:06,  5.66it/s]]
+47it [00:08,  5.67it/s]]
+52it [00:09,  5.66it/s]]
+52it [00:09,  5.66it/s]]
+iter_num=63800 loss_val=0.0023
+63it [00:14,  4.91it/s]]
+74it [00:16,  5.64it/s]]
+86it [00:18,  5.66it/s]]
+97it [00:20,  5.66it/s]]
+109it [00:22,  5.66it/s]
+120it [00:24,  5.66it/s]
+131it [00:26,  5.66it/s]
+143it [00:28,  5.67it/s]
+152it [00:29,  5.66it/s]
+152it [00:29,  5.66it/s]
+iter_num=63900 loss_val=0.0024
+159it [00:34,  3.46it/s]
+170it [00:36,  5.59it/s]
+182it [00:38,  5.66it/s]
+193it [00:40,  5.66it/s]
+201it [00:41,  4.81it/s]
+201it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/575_envs_2992_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2992, 1000, 7])
+torch.Size([2992, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.68it/s]]
+21it [00:03,  5.66it/s]]
+33it [00:05,  5.66it/s]]
+45it [00:07,  5.66it/s]]
+52it [00:09,  5.66it/s]]
+54it [00:11,  1.46it/s]]
+54it [00:11,  1.46it/s]]
+iter_num=64000 loss_val=0.0041
+65it [00:13,  5.36it/s]]
+77it [00:15,  5.66it/s]]
+88it [00:17,  5.66it/s]]
+99it [00:19,  5.67it/s]]
+111it [00:21,  5.66it/s]
+122it [00:23,  5.66it/s]
+133it [00:25,  5.66it/s]
+145it [00:27,  5.66it/s]
+145it [00:27,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/819_envs_4012_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4012, 1000, 7])
+torch.Size([4012, 1000, 14])
+1it [00:00,  7.56it/s]s]
+1it [00:00,  7.56it/s]s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.00it/s]s]
+3it [00:00,  6.00it/s]s]
+4it [00:03,  1.43s/it]s]
+4it [00:03,  1.43s/it]s]
+17it [00:06,  5.38it/s]]
+29it [00:08,  5.66it/s]]
+40it [00:10,  5.66it/s]]
+51it [00:12,  5.66it/s]]
+63it [00:14,  5.66it/s]]
+74it [00:16,  5.66it/s]]
+86it [00:18,  5.66it/s]]
+97it [00:20,  5.67it/s]]
+103it [00:21,  5.66it/s]
+103it [00:21,  5.66it/s]
+iter_num=64200 loss_val=0.0027
+113it [00:26,  4.65it/s]
+124it [00:28,  5.64it/s]
+136it [00:30,  5.66it/s]
+147it [00:32,  5.66it/s]
+159it [00:34,  5.66it/s]
+170it [00:36,  5.66it/s]
+181it [00:38,  5.67it/s]
+193it [00:40,  5.66it/s]
+201it [00:41,  4.81it/s]
+201it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/906_envs_2345_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2345, 1000, 7])
+torch.Size([2345, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.04it/s]s]
+3it [00:00,  6.04it/s]s]
+iter_num=64300 loss_val=0.0065
+10it [00:03,  4.08it/s]]
+22it [00:05,  5.64it/s]]
+33it [00:07,  5.67it/s]]
+44it [00:09,  5.67it/s]]
+56it [00:11,  5.67it/s]]
+67it [00:13,  5.67it/s]]
+79it [00:15,  5.67it/s]]
+90it [00:17,  5.67it/s]]
+101it [00:19,  5.67it/s]
+103it [00:20,  5.67it/s]
+103it [00:20,  5.67it/s]
+iter_num=64400 loss_val=0.0046
+113it [00:23,  5.01it/s]
+113it [00:23,  5.01it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/783_envs_3671_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3671, 1000, 7])
+torch.Size([3671, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+2it [00:00,  6.28it/s]s]
+13it [00:02,  5.67it/s]]
+25it [00:04,  5.66it/s]]
+36it [00:06,  5.67it/s]]
+47it [00:08,  5.66it/s]]
+59it [00:10,  5.67it/s]]
+70it [00:12,  5.67it/s]]
+82it [00:14,  5.67it/s]]
+86it [00:15,  5.66it/s]]
+88it [00:18,  1.26it/s]]
+88it [00:18,  1.26it/s]]
+iter_num=64500 loss_val=0.0021
+99it [00:20,  5.30it/s]]
+110it [00:22,  5.66it/s]
+122it [00:24,  5.66it/s]
+133it [00:26,  5.66it/s]
+145it [00:28,  5.66it/s]
+153it [00:29,  5.66it/s]
+167it [00:32,  5.66it/s]
+176it [00:33,  5.66it/s]
+176it [00:33,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/943_envs_3044_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3044, 1000, 7])
+torch.Size([3044, 1000, 14])
+184it [00:35,  5.21it/s]
+184it [00:35,  5.21it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.01it/s]s]
+3it [00:00,  6.01it/s]s]
+iter_num=64600 loss_val=0.0044
+7it [00:03,  2.23it/s]s]
+19it [00:05,  5.56it/s]]
+30it [00:07,  5.67it/s]]
+42it [00:09,  5.67it/s]]
+53it [00:11,  5.67it/s]]
+64it [00:13,  5.67it/s]]
+76it [00:15,  5.67it/s]]
+87it [00:17,  5.67it/s]]
+97it [00:19,  5.67it/s]]
+103it [00:20,  5.67it/s]
+103it [00:20,  5.67it/s]
+iter_num=64700 loss_val=0.0038
+107it [00:23,  2.34it/s]
+119it [00:25,  5.56it/s]
+130it [00:27,  5.67it/s]
+142it [00:29,  5.67it/s]
+153it [00:31,  4.81it/s]
+153it [00:31,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/764_envs_3453_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3453, 1000, 7])
+torch.Size([3453, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+18it [00:03,  5.67it/s]]
+30it [00:05,  5.67it/s]]
+41it [00:07,  5.67it/s]]
+51it [00:08,  5.67it/s]]
+51it [00:08,  5.67it/s]]
+iter_num=64800 loss_val=0.0026
+60it [00:13,  4.46it/s]]
+71it [00:15,  5.64it/s]]
+82it [00:17,  5.66it/s]]
+94it [00:19,  5.67it/s]]
+105it [00:21,  5.67it/s]
+117it [00:23,  5.67it/s]
+128it [00:25,  5.67it/s]
+139it [00:27,  5.67it/s]
+151it [00:29,  5.67it/s]
+151it [00:29,  5.67it/s]
+iter_num=64900 loss_val=0.0021
+158it [00:33,  3.65it/s]
+169it [00:35,  5.60it/s]
+169it [00:35,  5.60it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/221_envs_4030_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4030, 1000, 7])
+torch.Size([4030, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+2it [00:00,  6.27it/s]s]
+14it [00:02,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+37it [00:06,  5.67it/s]]
+48it [00:08,  5.67it/s]]
+59it [00:10,  5.67it/s]]
+71it [00:12,  5.67it/s]]
+79it [00:13,  5.67it/s]]
+79it [00:13,  5.67it/s]]
+iter_num=65000 loss_val=0.0014
+87it [00:18,  3.91it/s]]
+98it [00:20,  5.62it/s]]
+110it [00:22,  5.67it/s]
+121it [00:24,  5.67it/s]
+132it [00:26,  5.67it/s]
+144it [00:28,  5.67it/s]
+155it [00:30,  5.67it/s]
+167it [00:32,  5.67it/s]
+178it [00:34,  5.67it/s]
+179it [00:34,  5.67it/s]
+179it [00:34,  5.67it/s]
+iter_num=65100 loss_val=0.0014
+183it [00:38,  1.98it/s]
+194it [00:40,  5.46it/s]
+202it [00:41,  4.81it/s]
+202it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/638_envs_3396_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3396, 1000, 7])
+torch.Size([3396, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.69it/s]]
+21it [00:03,  5.67it/s]]
+33it [00:05,  5.67it/s]]
+44it [00:07,  5.67it/s]]
+55it [00:09,  5.67it/s]]
+67it [00:11,  5.67it/s]]
+78it [00:13,  5.67it/s]]
+78it [00:13,  5.67it/s]]
+iter_num=65200 loss_val=0.0026
+86it [00:17,  4.10it/s]]
+97it [00:19,  5.62it/s]]
+108it [00:21,  5.66it/s]
+120it [00:23,  5.67it/s]
+131it [00:25,  5.67it/s]
+143it [00:27,  5.67it/s]
+154it [00:29,  5.67it/s]
+165it [00:31,  5.67it/s]
+165it [00:31,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/224_envs_3062_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3062, 1000, 7])
+torch.Size([3062, 1000, 14])
+1it [00:00,  7.56it/s]s]
+1it [00:00,  7.56it/s]s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+10it [00:04,  1.07it/s]]
+10it [00:04,  1.07it/s]]
+iter_num=65300 loss_val=0.0047
+22it [00:06,  5.35it/s]]
+33it [00:08,  5.65it/s]]
+44it [00:10,  5.66it/s]]
+56it [00:12,  5.66it/s]]
+67it [00:14,  5.66it/s]]
+78it [00:16,  5.66it/s]]
+90it [00:18,  5.66it/s]]
+101it [00:20,  5.66it/s]
+109it [00:21,  5.66it/s]
+110it [00:24,  1.09it/s]
+110it [00:24,  1.09it/s]
+iter_num=65400 loss_val=0.0043
+121it [00:26,  5.23it/s]
+133it [00:28,  5.65it/s]
+144it [00:30,  5.66it/s]
+154it [00:32,  4.81it/s]
+154it [00:32,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/719_envs_4048_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4048, 1000, 7])
+torch.Size([4048, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.70it/s]s]
+20it [00:03,  5.67it/s]]
+31it [00:05,  5.67it/s]]
+43it [00:07,  5.67it/s]]
+54it [00:09,  5.67it/s]]
+56it [00:09,  5.67it/s]]
+59it [00:13,  1.54it/s]]
+59it [00:13,  1.54it/s]]
+iter_num=65500 loss_val=0.0019
+70it [00:15,  5.38it/s]]
+81it [00:17,  5.66it/s]]
+93it [00:19,  5.66it/s]]
+104it [00:21,  5.66it/s]
+115it [00:23,  5.66it/s]
+127it [00:25,  5.66it/s]
+138it [00:27,  5.66it/s]
+150it [00:29,  5.66it/s]
+156it [00:30,  5.66it/s]
+156it [00:30,  5.66it/s]
+iter_num=65600 loss_val=0.0014
+165it [00:35,  4.31it/s]
+177it [00:37,  5.64it/s]
+188it [00:39,  5.66it/s]
+200it [00:41,  5.67it/s]
+200it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/845_envs_3031_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3031, 1000, 7])
+torch.Size([3031, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.86it/s]s]
+15it [00:02,  5.67it/s]]
+27it [00:04,  5.67it/s]]
+38it [00:06,  5.67it/s]]
+49it [00:08,  5.67it/s]]
+54it [00:09,  5.67it/s]]
+54it [00:09,  5.67it/s]]
+iter_num=65700 loss_val=0.0036
+58it [00:12,  2.34it/s]]
+70it [00:14,  5.56it/s]]
+81it [00:16,  5.67it/s]]
+92it [00:18,  5.67it/s]]
+104it [00:20,  5.67it/s]
+114it [00:22,  5.67it/s]
+127it [00:24,  5.67it/s]
+138it [00:26,  5.67it/s]
+149it [00:28,  5.67it/s]
+149it [00:28,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/473_envs_3011_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3011, 1000, 7])
+torch.Size([3011, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.01it/s]s]
+3it [00:00,  6.01it/s]s]
+iter_num=65800 loss_val=0.0038
+13it [00:04,  4.86it/s]]
+25it [00:06,  5.65it/s]]
+36it [00:08,  5.66it/s]]
+48it [00:10,  5.67it/s]]
+59it [00:12,  5.67it/s]]
+70it [00:14,  5.67it/s]]
+82it [00:16,  5.67it/s]]
+93it [00:18,  5.67it/s]]
+103it [00:20,  5.67it/s]
+103it [00:20,  5.67it/s]
+iter_num=65900 loss_val=0.0040
+114it [00:24,  5.08it/s]
+125it [00:26,  5.66it/s]
+136it [00:28,  5.67it/s]
+148it [00:30,  5.67it/s]
+148it [00:30,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/241_envs_4004_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4004, 1000, 7])
+torch.Size([4004, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  5.99it/s]s]
+15it [00:02,  5.67it/s]]
+26it [00:04,  5.67it/s]]
+37it [00:06,  5.67it/s]]
+49it [00:08,  5.67it/s]]
+53it [00:09,  5.67it/s]]
+54it [00:12,  1.13s/it]]
+54it [00:12,  1.13s/it]]
+iter_num=66000 loss_val=0.0023
+65it [00:14,  5.12it/s]]
+76it [00:16,  5.65it/s]]
+88it [00:18,  5.67it/s]]
+99it [00:20,  5.66it/s]]
+111it [00:22,  5.67it/s]
+122it [00:24,  5.66it/s]
+133it [00:26,  5.67it/s]
+145it [00:28,  5.67it/s]
+153it [00:30,  5.67it/s]
+153it [00:30,  5.67it/s]
+iter_num=66100 loss_val=0.0024
+161it [00:34,  3.92it/s]
+172it [00:36,  5.61it/s]
+184it [00:38,  5.66it/s]
+195it [00:40,  5.67it/s]
+195it [00:40,  5.67it/s]
+ ----------------------------------
+Starting with file:
+1it [00:00,  7.32it/s]s]
+1it [00:00,  7.32it/s]s]
+torch.Size([3638, 1000, 7])
+torch.Size([3638, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+12it [00:02,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+35it [00:06,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+53it [00:09,  5.67it/s]]
+53it [00:09,  5.67it/s]]
+iter_num=66200 loss_val=0.0024
+64it [00:14,  4.97it/s]]
+76it [00:16,  5.65it/s]]
+87it [00:18,  5.66it/s]]
+98it [00:20,  5.66it/s]]
+110it [00:22,  5.66it/s]
+121it [00:24,  5.66it/s]
+133it [00:26,  5.66it/s]
+144it [00:28,  5.66it/s]
+153it [00:29,  5.66it/s]
+153it [00:29,  5.66it/s]
+iter_num=66300 loss_val=0.0020
+162it [00:34,  4.41it/s]
+173it [00:36,  5.63it/s]
+182it [00:37,  4.80it/s]
+182it [00:37,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/708_envs_3431_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3431, 1000, 7])
+torch.Size([3431, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+20it [00:03,  5.66it/s]]
+32it [00:05,  5.67it/s]]
+43it [00:07,  5.66it/s]]
+54it [00:09,  5.67it/s]]
+66it [00:11,  5.66it/s]]
+72it [00:12,  5.67it/s]]
+73it [00:15,  1.03s/it]]
+73it [00:15,  1.03s/it]]
+iter_num=66400 loss_val=0.0029
+84it [00:17,  5.17it/s]]
+95it [00:19,  5.65it/s]]
+107it [00:21,  5.66it/s]
+118it [00:23,  5.67it/s]
+130it [00:25,  5.67it/s]
+141it [00:27,  5.67it/s]
+152it [00:29,  5.67it/s]
+164it [00:31,  5.66it/s]
+172it [00:33,  5.19it/s]
+172it [00:33,  5.19it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/995_envs_2281_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2281, 1000, 7])
+torch.Size([2281, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.47it/s]s]
+1it [00:00,  7.47it/s]s]
+iter_num=66500 loss_val=0.0053
+11it [00:03,  5.02it/s]]
+22it [00:05,  5.65it/s]]
+34it [00:07,  5.67it/s]]
+45it [00:09,  5.67it/s]]
+57it [00:11,  5.67it/s]]
+68it [00:13,  5.67it/s]]
+79it [00:15,  5.67it/s]]
+91it [00:17,  5.67it/s]]
+101it [00:19,  5.67it/s]
+103it [00:21,  1.75it/s]
+103it [00:21,  1.75it/s]
+iter_num=66600 loss_val=0.0048
+114it [00:23,  4.78it/s]
+114it [00:23,  4.78it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/895_envs_3413_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3413, 1000, 7])
+torch.Size([3413, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+18it [00:03,  5.67it/s]]
+30it [00:05,  5.67it/s]]
+41it [00:07,  5.67it/s]]
+53it [00:09,  5.67it/s]]
+64it [00:11,  5.67it/s]]
+75it [00:13,  5.67it/s]]
+87it [00:15,  5.67it/s]]
+88it [00:15,  5.67it/s]]
+88it [00:15,  5.67it/s]]
+iter_num=66700 loss_val=0.0023
+94it [00:19,  3.19it/s]]
+105it [00:21,  5.58it/s]
+117it [00:23,  5.66it/s]
+128it [00:25,  5.66it/s]
+140it [00:27,  5.66it/s]
+151it [00:29,  5.66it/s]
+162it [00:31,  5.66it/s]
+171it [00:32,  5.21it/s]
+171it [00:32,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/418_envs_4027_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4027, 1000, 7])
+torch.Size([4027, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+18it [00:03,  5.66it/s]]
+18it [00:03,  5.66it/s]]
+iter_num=66800 loss_val=0.0020
+25it [00:07,  3.45it/s]]
+37it [00:09,  5.62it/s]]
+47it [00:11,  5.67it/s]]
+59it [00:13,  5.67it/s]]
+71it [00:15,  5.67it/s]]
+82it [00:17,  5.67it/s]]
+94it [00:19,  5.67it/s]]
+105it [00:21,  5.67it/s]
+116it [00:23,  5.67it/s]
+118it [00:23,  5.67it/s]
+118it [00:23,  5.67it/s]
+121it [00:27,  1.55it/s]
+121it [00:27,  1.55it/s]
+132it [00:29,  5.38it/s]
+144it [00:31,  5.66it/s]
+155it [00:33,  5.67it/s]
+167it [00:35,  5.67it/s]
+178it [00:37,  5.67it/s]
+189it [00:39,  5.67it/s]
+199it [00:41,  5.67it/s]
+199it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/586_envs_3400_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3400, 1000, 7])
+torch.Size([3400, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+6it [00:01,  5.74it/s]s]
+17it [00:02,  5.67it/s]]
+17it [00:02,  5.67it/s]]
+iter_num=67000 loss_val=0.0033
+24it [00:06,  3.67it/s]]
+36it [00:09,  5.62it/s]]
+47it [00:10,  5.66it/s]]
+59it [00:13,  5.66it/s]]
+70it [00:15,  5.66it/s]]
+81it [00:16,  5.67it/s]]
+93it [00:19,  5.66it/s]]
+104it [00:21,  5.67it/s]
+116it [00:23,  5.66it/s]
+117it [00:23,  5.66it/s]
+117it [00:23,  5.66it/s]
+iter_num=67100 loss_val=0.0027
+123it [00:27,  3.19it/s]
+134it [00:29,  5.58it/s]
+146it [00:31,  5.66it/s]
+157it [00:33,  5.67it/s]
+169it [00:35,  5.67it/s]
+169it [00:35,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/59_envs_3049_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3049, 1000, 7])
+torch.Size([3049, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.79it/s]s]
+17it [00:02,  5.67it/s]]
+28it [00:04,  5.66it/s]]
+39it [00:06,  5.66it/s]]
+48it [00:08,  5.66it/s]]
+48it [00:08,  5.66it/s]]
+iter_num=67200 loss_val=0.0039
+60it [00:13,  5.23it/s]]
+71it [00:14,  5.65it/s]]
+82it [00:16,  5.66it/s]]
+94it [00:19,  5.66it/s]]
+105it [00:20,  5.66it/s]
+116it [00:22,  5.66it/s]
+128it [00:25,  5.66it/s]
+139it [00:26,  5.66it/s]
+148it [00:28,  5.66it/s]
+148it [00:28,  5.66it/s]
+iter_num=67300 loss_val=0.0034
+iter_num=67300 loss=0.0052 loss_val=0.0034 lr_iter=0.0005998798109543902
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/168_envs_3037_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3037, 1000, 7])
+torch.Size([3037, 1000, 14])
+2it [00:00,  6.28it/s]s]
+2it [00:00,  6.28it/s]s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+13it [00:02,  5.68it/s]]
+25it [00:04,  5.67it/s]]
+36it [00:06,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+59it [00:10,  5.67it/s]]
+70it [00:12,  5.67it/s]]
+82it [00:14,  5.67it/s]]
+93it [00:16,  5.67it/s]]
+96it [00:16,  5.67it/s]]
+96it [00:16,  5.67it/s]]
+iter_num=67400 loss_val=0.0041
+102it [00:20,  3.34it/s]
+113it [00:22,  5.59it/s]
+122it [00:23,  5.67it/s]
+133it [00:25,  5.67it/s]
+145it [00:27,  5.67it/s]
+145it [00:27,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/974_envs_3426_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3426, 1000, 7])
+torch.Size([3426, 1000, 14])
+152it [00:29,  5.20it/s]
+152it [00:29,  5.20it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.69it/s]]
+22it [00:03,  5.67it/s]]
+33it [00:05,  5.67it/s]]
+44it [00:07,  5.67it/s]]
+45it [00:07,  5.67it/s]]
+45it [00:07,  5.67it/s]]
+iter_num=67500 loss_val=0.0023
+52it [00:11,  3.66it/s]]
+63it [00:13,  5.61it/s]]
+74it [00:15,  5.67it/s]]
+86it [00:17,  5.67it/s]]
+97it [00:19,  5.66it/s]]
+109it [00:21,  5.67it/s]
+120it [00:23,  5.66it/s]
+131it [00:25,  5.67it/s]
+143it [00:27,  5.67it/s]
+145it [00:28,  5.66it/s]
+145it [00:28,  5.66it/s]
+iter_num=67600 loss_val=0.0024
+150it [00:31,  2.67it/s]
+161it [00:33,  5.54it/s]
+172it [00:35,  4.81it/s]
+172it [00:35,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/972_envs_3437_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3437, 1000, 7])
+torch.Size([3437, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.70it/s]s]
+19it [00:03,  5.67it/s]]
+30it [00:05,  5.67it/s]]
+42it [00:07,  5.67it/s]]
+53it [00:09,  5.67it/s]]
+64it [00:11,  5.67it/s]]
+74it [00:13,  5.65it/s]]
+74it [00:13,  5.65it/s]]
+iter_num=67700 loss_val=0.0027
+83it [00:17,  4.46it/s]]
+94it [00:19,  5.63it/s]]
+106it [00:21,  5.67it/s]
+117it [00:23,  5.66it/s]
+129it [00:25,  5.67it/s]
+140it [00:27,  5.66it/s]
+151it [00:29,  5.66it/s]
+163it [00:31,  5.66it/s]
+163it [00:31,  5.66it/s]
+ ----------------------------------
+Starting with file:
+172it [00:33,  5.20it/s]
+172it [00:33,  5.20it/s]
+torch.Size([3054, 1000, 7])
+torch.Size([3054, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  5.97it/s]s]
+3it [00:00,  5.97it/s]s]
+iter_num=67800 loss_val=0.0035
+6it [00:03,  1.71it/s]s]
+18it [00:05,  5.51it/s]]
+29it [00:07,  5.66it/s]]
+40it [00:09,  5.65it/s]]
+52it [00:11,  5.66it/s]]
+63it [00:13,  5.66it/s]]
+74it [00:15,  5.66it/s]]
+86it [00:17,  5.66it/s]]
+97it [00:19,  5.66it/s]]
+103it [00:20,  5.66it/s]
+103it [00:20,  5.66it/s]
+iter_num=67900 loss_val=0.0031
+106it [00:23,  1.86it/s]
+118it [00:25,  5.51it/s]
+129it [00:27,  5.66it/s]
+140it [00:29,  5.66it/s]
+152it [00:31,  5.66it/s]
+152it [00:31,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/816_envs_4010_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4010, 1000, 7])
+torch.Size([4010, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.78it/s]s]
+16it [00:02,  5.67it/s]]
+28it [00:04,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+50it [00:08,  5.67it/s]]
+51it [00:08,  5.67it/s]]
+51it [00:08,  5.67it/s]]
+iter_num=68000 loss_val=0.0012
+55it [00:12,  1.98it/s]]
+67it [00:14,  5.52it/s]]
+78it [00:16,  5.66it/s]]
+89it [00:18,  5.67it/s]]
+101it [00:20,  5.66it/s]
+112it [00:22,  5.67it/s]
+123it [00:24,  5.66it/s]
+135it [00:26,  5.66it/s]
+146it [00:28,  5.67it/s]
+151it [00:29,  5.67it/s]
+151it [00:29,  5.67it/s]
+iter_num=68100 loss_val=0.0012
+162it [00:34,  4.91it/s]
+174it [00:37,  5.65it/s]
+185it [00:39,  5.67it/s]
+197it [00:41,  5.66it/s]
+197it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/662_envs_4030_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4030, 1000, 7])
+torch.Size([4030, 1000, 14])
+2it [00:00,  6.33it/s]s]
+2it [00:00,  6.33it/s]s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+13it [00:02,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+36it [00:06,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+51it [00:08,  5.67it/s]]
+52it [00:12,  1.14s/it]]
+52it [00:12,  1.14s/it]]
+iter_num=68200 loss_val=0.0012
+63it [00:14,  5.12it/s]]
+75it [00:16,  5.66it/s]]
+86it [00:18,  5.66it/s]]
+97it [00:20,  5.66it/s]]
+109it [00:22,  5.66it/s]
+120it [00:24,  5.67it/s]
+132it [00:26,  5.67it/s]
+143it [00:28,  5.67it/s]
+151it [00:29,  5.67it/s]
+151it [00:29,  5.67it/s]
+iter_num=68300 loss_val=0.0010
+158it [00:34,  3.38it/s]
+169it [00:36,  5.59it/s]
+180it [00:38,  5.66it/s]
+192it [00:40,  5.66it/s]
+202it [00:42,  4.79it/s]
+202it [00:42,  4.79it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/568_envs_2320_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2320, 1000, 7])
+torch.Size([2320, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.70it/s]s]
+20it [00:03,  5.67it/s]]
+32it [00:05,  5.67it/s]]
+43it [00:07,  5.67it/s]]
+50it [00:08,  5.67it/s]]
+50it [00:08,  5.67it/s]]
+iter_num=68400 loss_val=0.0040
+55it [00:11,  3.19it/s]]
+67it [00:13,  5.61it/s]]
+78it [00:15,  5.67it/s]]
+89it [00:17,  5.67it/s]]
+101it [00:19,  5.67it/s]
+112it [00:21,  5.67it/s]
+112it [00:21,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/749_envs_3075_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3075, 1000, 7])
+torch.Size([3075, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.02it/s]s]
+13it [00:02,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+35it [00:06,  5.67it/s]]
+35it [00:06,  5.67it/s]]
+iter_num=68500 loss_val=0.0041
+46it [00:10,  5.06it/s]]
+57it [00:12,  5.65it/s]]
+68it [00:14,  5.67it/s]]
+80it [00:16,  5.67it/s]]
+91it [00:18,  5.67it/s]]
+102it [00:20,  5.67it/s]
+114it [00:22,  5.67it/s]
+125it [00:24,  5.67it/s]
+135it [00:26,  5.66it/s]
+135it [00:26,  5.66it/s]
+iter_num=68600 loss_val=0.0036
+145it [00:30,  4.84it/s]
+154it [00:32,  4.80it/s]
+154it [00:32,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/767_envs_4048_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4048, 1000, 7])
+torch.Size([4048, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.70it/s]s]
+21it [00:03,  5.67it/s]]
+32it [00:05,  5.67it/s]]
+43it [00:07,  5.66it/s]]
+55it [00:09,  5.67it/s]]
+66it [00:11,  5.67it/s]]
+78it [00:13,  5.67it/s]]
+82it [00:14,  5.66it/s]]
+82it [00:14,  5.66it/s]]
+iter_num=68700 loss_val=0.0014
+93it [00:19,  4.90it/s]]
+105it [00:21,  5.65it/s]
+116it [00:23,  5.66it/s]
+128it [00:25,  5.66it/s]
+139it [00:27,  5.66it/s]
+150it [00:29,  5.66it/s]
+162it [00:31,  5.67it/s]
+173it [00:33,  5.67it/s]
+182it [00:35,  5.66it/s]
+182it [00:35,  5.66it/s]
+iter_num=68800 loss_val=0.0012
+189it [00:39,  3.45it/s]
+200it [00:41,  5.59it/s]
+200it [00:41,  5.59it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/991_envs_3464_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3464, 1000, 7])
+torch.Size([3464, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.87it/s]s]
+16it [00:02,  5.67it/s]]
+27it [00:04,  5.66it/s]]
+38it [00:06,  5.67it/s]]
+50it [00:08,  5.67it/s]]
+61it [00:10,  5.67it/s]]
+72it [00:12,  5.67it/s]]
+80it [00:14,  5.66it/s]]
+80it [00:14,  5.66it/s]]
+iter_num=68900 loss_val=0.0025
+91it [00:18,  5.00it/s]]
+102it [00:20,  5.65it/s]
+114it [00:22,  5.66it/s]
+125it [00:24,  5.66it/s]
+136it [00:26,  5.66it/s]
+148it [00:28,  5.66it/s]
+159it [00:30,  5.66it/s]
+171it [00:32,  5.66it/s]
+171it [00:32,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/447_envs_3412_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3412, 1000, 7])
+torch.Size([3412, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  5.99it/s]s]
+7it [00:01,  5.72it/s]s]
+7it [00:01,  5.72it/s]s]
+10it [00:04,  1.69it/s]]
+10it [00:04,  1.69it/s]]
+22it [00:06,  5.49it/s]]
+33it [00:08,  5.66it/s]]
+45it [00:10,  5.66it/s]]
+56it [00:12,  5.67it/s]]
+67it [00:14,  5.66it/s]]
+79it [00:16,  5.66it/s]]
+90it [00:18,  5.66it/s]]
+102it [00:20,  5.66it/s]
+107it [00:21,  5.67it/s]
+109it [00:24,  1.33it/s]
+109it [00:24,  1.33it/s]
+iter_num=69100 loss_val=0.0026
+120it [00:26,  5.32it/s]
+132it [00:28,  5.66it/s]
+143it [00:30,  5.66it/s]
+154it [00:32,  5.67it/s]
+166it [00:34,  5.67it/s]
+166it [00:34,  5.67it/s]
+ ----------------------------------
+Starting with file:
+1it [00:00,  5.31it/s]s]
+1it [00:00,  5.31it/s]s]
+torch.Size([3998, 1000, 7])
+torch.Size([3998, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+12it [00:02,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+35it [00:06,  5.67it/s]]
+37it [00:06,  5.67it/s]]
+40it [00:10,  1.55it/s]]
+40it [00:10,  1.55it/s]]
+iter_num=69200 loss_val=0.0026
+51it [00:12,  5.39it/s]]
+63it [00:14,  5.66it/s]]
+74it [00:16,  5.67it/s]]
+85it [00:18,  5.67it/s]]
+97it [00:20,  5.67it/s]]
+108it [00:22,  5.67it/s]
+119it [00:24,  5.67it/s]
+131it [00:26,  5.67it/s]
+137it [00:27,  5.67it/s]
+137it [00:27,  5.67it/s]
+iter_num=69300 loss_val=0.0019
+147it [00:32,  4.65it/s]
+158it [00:34,  5.64it/s]
+170it [00:36,  5.66it/s]
+181it [00:38,  5.67it/s]
+193it [00:40,  5.67it/s]
+200it [00:41,  4.80it/s]
+200it [00:41,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/145_envs_3433_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3433, 1000, 7])
+torch.Size([3433, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.68it/s]]
+22it [00:03,  5.67it/s]]
+33it [00:05,  5.66it/s]]
+38it [00:06,  5.67it/s]]
+40it [00:09,  1.33it/s]]
+40it [00:09,  1.33it/s]]
+iter_num=69400 loss_val=0.0025
+52it [00:11,  5.42it/s]]
+63it [00:13,  5.66it/s]]
+74it [00:15,  5.66it/s]]
+86it [00:17,  5.66it/s]]
+97it [00:19,  5.66it/s]]
+109it [00:21,  5.66it/s]
+120it [00:23,  5.66it/s]
+131it [00:25,  5.66it/s]
+138it [00:27,  5.66it/s]
+139it [00:29,  1.00it/s]
+139it [00:29,  1.00it/s]
+iter_num=69500 loss_val=0.0027
+150it [00:31,  5.19it/s]
+161it [00:33,  5.65it/s]
+172it [00:35,  4.80it/s]
+172it [00:35,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/699_envs_4001_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4001, 1000, 7])
+torch.Size([4001, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.71it/s]s]
+18it [00:03,  5.67it/s]]
+30it [00:05,  5.67it/s]]
+41it [00:07,  5.67it/s]]
+53it [00:09,  5.67it/s]]
+64it [00:11,  5.67it/s]]
+67it [00:11,  5.67it/s]]
+69it [00:15,  1.18it/s]]
+69it [00:15,  1.18it/s]]
+iter_num=69600 loss_val=0.0020
+80it [00:17,  5.27it/s]]
+92it [00:19,  5.66it/s]]
+103it [00:21,  5.67it/s]
+114it [00:23,  5.67it/s]
+126it [00:25,  5.67it/s]
+137it [00:27,  5.67it/s]
+148it [00:29,  5.66it/s]
+160it [00:31,  5.67it/s]
+167it [00:32,  5.67it/s]
+167it [00:32,  5.67it/s]
+iter_num=69700 loss_val=0.0024
+176it [00:37,  4.32it/s]
+187it [00:39,  5.63it/s]
+199it [00:41,  5.67it/s]
+199it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/35_envs_4052_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4052, 1000, 7])
+torch.Size([4052, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.80it/s]s]
+16it [00:02,  5.67it/s]]
+28it [00:04,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+50it [00:08,  5.67it/s]]
+62it [00:10,  5.67it/s]]
+68it [00:11,  5.67it/s]]
+68it [00:11,  5.67it/s]]
+iter_num=69800 loss_val=0.0015
+78it [00:16,  4.64it/s]]
+89it [00:18,  5.63it/s]]
+101it [00:20,  5.67it/s]
+112it [00:22,  5.67it/s]
+123it [00:24,  5.67it/s]
+135it [00:26,  5.67it/s]
+146it [00:28,  5.67it/s]
+158it [00:31,  5.67it/s]
+168it [00:32,  5.67it/s]
+168it [00:32,  5.67it/s]
+iter_num=69900 loss_val=0.0011
+173it [00:36,  2.45it/s]
+185it [00:39,  5.57it/s]
+196it [00:40,  5.67it/s]
+196it [00:40,  5.67it/s]
+ ----------------------------------
+Starting with file:
+0it [00:00, ?it/s]1it/s]
+0it [00:00, ?it/s]1it/s]
+torch.Size([3417, 1000, 7])
+torch.Size([3417, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+11it [00:01,  5.67it/s]]
+23it [00:04,  5.66it/s]]
+34it [00:05,  5.66it/s]]
+46it [00:08,  5.66it/s]]
+57it [00:10,  5.66it/s]]
+66it [00:11,  5.66it/s]]
+66it [00:11,  5.66it/s]]
+iter_num=70000 loss_val=0.0021
+73it [00:15,  3.66it/s]]
+84it [00:17,  5.60it/s]]
+95it [00:19,  5.66it/s]]
+107it [00:21,  5.66it/s]
+118it [00:23,  5.66it/s]
+130it [00:25,  5.66it/s]
+141it [00:27,  5.66it/s]
+152it [00:29,  5.66it/s]
+164it [00:31,  5.66it/s]
+166it [00:32,  5.66it/s]
+166it [00:32,  5.66it/s]
+iter_num=70100 loss_val=0.0024
+170it [00:35,  2.18it/s]
+170it [00:35,  2.18it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/361_envs_3438_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3438, 1000, 7])
+torch.Size([3438, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.73it/s]s]
+18it [00:03,  5.66it/s]]
+29it [00:05,  5.66it/s]]
+41it [00:07,  5.66it/s]]
+52it [00:09,  5.66it/s]]
+64it [00:11,  5.66it/s]]
+75it [00:13,  5.66it/s]]
+86it [00:15,  5.66it/s]]
+96it [00:16,  5.66it/s]]
+96it [00:16,  5.66it/s]]
+iter_num=70200 loss_val=0.0025
+105it [00:21,  4.46it/s]
+116it [00:23,  5.63it/s]
+128it [00:25,  5.66it/s]
+139it [00:27,  5.66it/s]
+149it [00:29,  5.66it/s]
+162it [00:31,  5.66it/s]
+172it [00:33,  5.19it/s]
+172it [00:33,  5.19it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/684_envs_4034_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4034, 1000, 7])
+torch.Size([4034, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.73it/s]s]
+19it [00:03,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+iter_num=70300 loss_val=0.0019
+35it [00:09,  4.65it/s]]
+46it [00:11,  5.65it/s]]
+57it [00:13,  5.67it/s]]
+69it [00:15,  5.67it/s]]
+80it [00:17,  5.67it/s]]
+92it [00:19,  5.67it/s]]
+103it [00:21,  5.67it/s]
+114it [00:23,  5.67it/s]
+125it [00:25,  5.66it/s]
+125it [00:25,  5.66it/s]
+iter_num=70400 loss_val=0.0012
+130it [00:29,  2.46it/s]
+142it [00:31,  5.57it/s]
+153it [00:33,  5.67it/s]
+165it [00:35,  5.67it/s]
+176it [00:37,  5.67it/s]
+187it [00:39,  5.67it/s]
+199it [00:41,  5.67it/s]
+199it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/859_envs_4008_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4008, 1000, 7])
+torch.Size([4008, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.02it/s]s]
+15it [00:02,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+iter_num=70500 loss_val=0.0029
+31it [00:08,  3.46it/s]]
+42it [00:10,  5.59it/s]]
+53it [00:12,  5.66it/s]]
+65it [00:14,  5.66it/s]]
+76it [00:16,  5.66it/s]]
+88it [00:18,  5.66it/s]]
+99it [00:20,  5.66it/s]]
+110it [00:22,  5.66it/s]
+122it [00:24,  5.66it/s]
+124it [00:25,  5.66it/s]
+124it [00:25,  5.66it/s]
+iter_num=70600 loss_val=0.0019
+126it [00:28,  1.18it/s]
+138it [00:30,  5.38it/s]
+149it [00:32,  5.66it/s]
+161it [00:34,  5.66it/s]
+172it [00:36,  5.66it/s]
+183it [00:38,  5.66it/s]
+195it [00:40,  5.66it/s]
+195it [00:40,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/671_envs_3694_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3694, 1000, 7])
+torch.Size([3694, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+0it [00:00, ?it/s]1it/s]
+12it [00:02,  5.68it/s]]
+23it [00:04,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+iter_num=70700 loss_val=0.0028
+29it [00:08,  2.57it/s]]
+41it [00:10,  5.57it/s]]
+52it [00:12,  5.67it/s]]
+64it [00:14,  5.67it/s]]
+75it [00:16,  5.67it/s]]
+86it [00:18,  5.67it/s]]
+98it [00:20,  5.67it/s]]
+109it [00:22,  5.67it/s]
+121it [00:24,  5.67it/s]
+124it [00:24,  5.67it/s]
+124it [00:24,  5.67it/s]
+iter_num=70800 loss_val=0.0021
+127it [00:28,  1.64it/s]
+138it [00:30,  5.40it/s]
+149it [00:32,  5.66it/s]
+161it [00:34,  5.67it/s]
+172it [00:36,  5.67it/s]
+184it [00:38,  5.66it/s]
+184it [00:38,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/70_envs_3416_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3416, 1000, 7])
+torch.Size([3416, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.79it/s]s]
+17it [00:02,  5.67it/s]]
+28it [00:04,  5.66it/s]]
+39it [00:06,  5.66it/s]]
+40it [00:07,  5.67it/s]]
+40it [00:07,  5.67it/s]]
+iter_num=70900 loss_val=0.0024
+47it [00:10,  3.66it/s]]
+58it [00:12,  5.60it/s]]
+69it [00:14,  5.66it/s]]
+81it [00:16,  5.66it/s]]
+92it [00:18,  5.66it/s]]
+104it [00:21,  5.66it/s]
+115it [00:22,  5.66it/s]
+126it [00:24,  5.66it/s]
+138it [00:27,  5.66it/s]
+140it [00:27,  5.66it/s]
+140it [00:27,  5.66it/s]
+iter_num=71000 loss_val=0.0024
+145it [00:31,  2.68it/s]
+156it [00:32,  5.54it/s]
+168it [00:35,  5.66it/s]
+168it [00:35,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/443_envs_3390_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3390, 1000, 7])
+torch.Size([3390, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  6.00it/s]s]
+15it [00:02,  5.67it/s]]
+26it [00:04,  5.66it/s]]
+38it [00:06,  5.66it/s]]
+49it [00:08,  5.66it/s]]
+60it [00:10,  5.66it/s]]
+70it [00:12,  5.66it/s]]
+70it [00:12,  5.66it/s]]
+iter_num=71100 loss_val=0.0024
+79it [00:16,  4.47it/s]]
+91it [00:18,  5.64it/s]]
+102it [00:20,  5.66it/s]
+113it [00:22,  5.66it/s]
+125it [00:24,  5.66it/s]
+136it [00:26,  5.66it/s]
+147it [00:28,  5.66it/s]
+159it [00:30,  5.66it/s]
+170it [00:32,  5.20it/s]
+170it [00:32,  5.20it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/490_envs_4021_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4021, 1000, 7])
+torch.Size([4021, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.30it/s]s]
+1it [00:00,  7.30it/s]s]
+iter_num=71200 loss_val=0.0047
+11it [00:05,  4.64it/s]]
+23it [00:07,  5.65it/s]]
+34it [00:09,  5.67it/s]]
+46it [00:11,  5.67it/s]]
+57it [00:13,  5.67it/s]]
+68it [00:15,  5.67it/s]]
+80it [00:17,  5.67it/s]]
+91it [00:19,  5.67it/s]]
+101it [00:20,  5.67it/s]
+101it [00:20,  5.67it/s]
+iter_num=71300 loss_val=0.0013
+107it [00:25,  2.96it/s]
+119it [00:27,  5.60it/s]
+130it [00:29,  5.67it/s]
+141it [00:31,  5.67it/s]
+153it [00:33,  5.66it/s]
+164it [00:35,  5.67it/s]
+176it [00:37,  5.67it/s]
+187it [00:39,  5.67it/s]
+198it [00:41,  5.67it/s]
+198it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/300_envs_2268_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2268, 1000, 7])
+torch.Size([2268, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.75it/s]s]
+1it [00:00,  7.75it/s]s]
+iter_num=71400 loss_val=0.0074
+5it [00:02,  2.48it/s]s]
+16it [00:04,  5.55it/s]]
+28it [00:06,  5.67it/s]]
+39it [00:08,  5.67it/s]]
+51it [00:10,  5.67it/s]]
+62it [00:12,  5.67it/s]]
+73it [00:14,  5.67it/s]]
+85it [00:16,  5.67it/s]]
+96it [00:18,  5.67it/s]]
+101it [00:19,  5.67it/s]
+101it [00:19,  5.67it/s]
+iter_num=71500 loss_val=0.0042
+108it [00:22,  4.13it/s]
+108it [00:22,  4.13it/s]
+ ----------------------------------
+Starting with file:
+1it [00:00,  7.46it/s]s]
+1it [00:00,  7.46it/s]s]
+torch.Size([3446, 1000, 7])
+torch.Size([3446, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+13it [00:02,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+36it [00:06,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+58it [00:10,  5.66it/s]]
+70it [00:12,  5.67it/s]]
+81it [00:14,  5.67it/s]]
+88it [00:15,  5.67it/s]]
+88it [00:15,  5.67it/s]]
+iter_num=71600 loss_val=0.0021
+100it [00:20,  5.18it/s]
+111it [00:22,  5.65it/s]
+123it [00:24,  5.66it/s]
+134it [00:26,  5.66it/s]
+145it [00:28,  5.66it/s]
+157it [00:30,  5.66it/s]
+168it [00:32,  5.66it/s]
+168it [00:32,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/429_envs_4021_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4021, 1000, 7])
+2it [00:00,  6.36it/s]s]
+2it [00:00,  6.36it/s]s]
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+13it [00:02,  5.66it/s]]
+16it [00:02,  5.66it/s]]
+18it [00:06,  1.18it/s]]
+18it [00:06,  1.18it/s]]
+iter_num=71700 loss_val=0.0016
+29it [00:08,  5.26it/s]]
+41it [00:10,  5.65it/s]]
+52it [00:12,  5.66it/s]]
+63it [00:14,  5.66it/s]]
+75it [00:16,  5.66it/s]]
+86it [00:18,  5.66it/s]]
+98it [00:20,  5.66it/s]]
+109it [00:22,  5.66it/s]
+116it [00:23,  5.66it/s]
+116it [00:23,  5.66it/s]
+iter_num=71800 loss_val=0.0012
+125it [00:28,  4.30it/s]
+136it [00:30,  5.62it/s]
+148it [00:32,  5.66it/s]
+159it [00:34,  5.66it/s]
+171it [00:36,  5.66it/s]
+182it [00:38,  5.66it/s]
+193it [00:40,  5.66it/s]
+201it [00:41,  4.80it/s]
+201it [00:41,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/908_envs_4011_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4011, 1000, 7])
+torch.Size([4011, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.69it/s]]
+16it [00:02,  5.67it/s]]
+16it [00:02,  5.67it/s]]
+iter_num=71900 loss_val=0.0011
+26it [00:07,  4.65it/s]]
+37it [00:09,  5.64it/s]]
+49it [00:11,  5.66it/s]]
+60it [00:13,  5.66it/s]]
+71it [00:15,  5.66it/s]]
+83it [00:17,  5.66it/s]]
+94it [00:19,  5.66it/s]]
+106it [00:21,  5.66it/s]
+116it [00:23,  5.67it/s]
+116it [00:23,  5.67it/s]
+iter_num=72000 loss_val=0.0011
+122it [00:27,  2.96it/s]
+133it [00:29,  5.56it/s]
+144it [00:31,  5.66it/s]
+156it [00:33,  5.67it/s]
+167it [00:35,  5.66it/s]
+179it [00:37,  5.66it/s]
+190it [00:39,  5.66it/s]
+201it [00:41,  4.81it/s]
+201it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/825_envs_2303_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2303, 1000, 7])
+torch.Size([2303, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.71it/s]s]
+16it [00:02,  5.67it/s]]
+16it [00:02,  5.67it/s]]
+20it [00:05,  2.70it/s]]
+20it [00:05,  2.70it/s]]
+31it [00:07,  5.55it/s]]
+43it [00:09,  5.67it/s]]
+54it [00:11,  5.67it/s]]
+66it [00:13,  5.67it/s]]
+77it [00:15,  5.67it/s]]
+88it [00:17,  5.67it/s]]
+100it [00:19,  5.67it/s]
+111it [00:21,  5.67it/s]
+111it [00:21,  5.67it/s]
+ ----------------------------------
+Starting with file:
+1it [00:00,  7.53it/s]s]
+1it [00:00,  7.53it/s]s]
+torch.Size([4037, 1000, 7])
+torch.Size([4037, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+iter_num=72200 loss_val=0.0057
+6it [00:04,  2.29it/s]s]
+18it [00:06,  5.56it/s]]
+29it [00:08,  5.66it/s]]
+39it [00:10,  5.66it/s]]
+52it [00:12,  5.67it/s]]
+63it [00:14,  5.66it/s]]
+75it [00:16,  5.66it/s]]
+86it [00:18,  5.66it/s]]
+97it [00:20,  5.66it/s]]
+101it [00:20,  5.66it/s]
+102it [00:24,  1.14s/it]
+102it [00:24,  1.14s/it]
+iter_num=72300 loss_val=0.0013
+113it [00:26,  5.11it/s]
+125it [00:28,  5.66it/s]
+136it [00:30,  5.67it/s]
+147it [00:32,  5.66it/s]
+159it [00:34,  5.66it/s]
+170it [00:36,  5.66it/s]
+182it [00:38,  5.66it/s]
+193it [00:40,  5.66it/s]
+201it [00:41,  5.66it/s]
+201it [00:41,  5.66it/s]
+iter_num=72400 loss_val=0.0012
+iter_num=72400 loss=0.0013 loss_val=0.0012 lr_iter=0.0005998524980181427
+ ----------------------------------
+Starting with file:
+0it [00:00, ?it/s]6it/s]
+0it [00:00, ?it/s]6it/s]
+torch.Size([3034, 1000, 7])
+torch.Size([3034, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+using fused AdamW: True
+iter_num=72400 loss_val=0.0078
+10it [00:04,  4.83it/s]]
+21it [00:06,  5.65it/s]]
+33it [00:08,  5.67it/s]]
+44it [00:10,  5.67it/s]]
+56it [00:12,  5.67it/s]]
+67it [00:14,  5.67it/s]]
+78it [00:16,  5.67it/s]]
+90it [00:18,  5.67it/s]]
+100it [00:20,  5.67it/s]
+100it [00:20,  5.67it/s]
+iter_num=72500 loss_val=0.0033
+110it [00:24,  4.85it/s]
+122it [00:26,  5.66it/s]
+133it [00:28,  5.67it/s]
+144it [00:30,  5.67it/s]
+152it [00:31,  4.79it/s]
+152it [00:31,  4.79it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/347_envs_3439_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3439, 1000, 7])
+torch.Size([3439, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.69it/s]]
+21it [00:03,  5.67it/s]]
+33it [00:05,  5.67it/s]]
+44it [00:07,  5.67it/s]]
+49it [00:08,  5.67it/s]]
+51it [00:11,  1.33it/s]]
+51it [00:11,  1.33it/s]]
+iter_num=72600 loss_val=0.0030
+63it [00:13,  5.42it/s]]
+74it [00:15,  5.66it/s]]
+86it [00:17,  5.67it/s]]
+97it [00:19,  5.67it/s]]
+108it [00:21,  5.66it/s]
+120it [00:23,  5.67it/s]
+131it [00:25,  5.67it/s]
+143it [00:27,  5.67it/s]
+149it [00:28,  5.67it/s]
+150it [00:31,  1.00s/it]
+150it [00:31,  1.00s/it]
+iter_num=72700 loss_val=0.0021
+158it [00:33,  4.46it/s]
+170it [00:35,  5.65it/s]
+170it [00:35,  5.65it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/558_envs_4018_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4018, 1000, 7])
+torch.Size([4018, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.85it/s]s]
+15it [00:02,  5.67it/s]]
+26it [00:04,  5.67it/s]]
+38it [00:06,  5.67it/s]]
+49it [00:08,  5.67it/s]]
+61it [00:10,  5.67it/s]]
+72it [00:12,  5.67it/s]]
+78it [00:13,  5.67it/s]]
+78it [00:13,  5.67it/s]]
+iter_num=72800 loss_val=0.0012
+88it [00:18,  4.65it/s]]
+99it [00:20,  5.64it/s]]
+111it [00:22,  5.67it/s]
+122it [00:24,  5.67it/s]
+134it [00:26,  5.67it/s]
+145it [00:28,  5.66it/s]
+156it [00:30,  5.66it/s]
+168it [00:32,  5.67it/s]
+178it [00:34,  5.66it/s]
+178it [00:34,  5.66it/s]
+iter_num=72900 loss_val=0.0013
+184it [00:38,  2.96it/s]
+195it [00:40,  5.56it/s]
+195it [00:40,  5.56it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/868_envs_3081_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3081, 1000, 7])
+torch.Size([3081, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.64it/s]s]
+10it [00:01,  5.69it/s]]
+23it [00:04,  5.67it/s]]
+35it [00:06,  5.67it/s]]
+46it [00:08,  5.67it/s]]
+58it [00:10,  5.67it/s]]
+69it [00:12,  5.67it/s]]
+78it [00:13,  5.67it/s]]
+78it [00:13,  5.67it/s]]
+iter_num=73000 loss_val=0.0037
+89it [00:18,  5.07it/s]]
+101it [00:20,  5.66it/s]
+112it [00:22,  5.67it/s]
+123it [00:24,  5.67it/s]
+135it [00:26,  5.67it/s]
+146it [00:28,  5.67it/s]
+146it [00:28,  5.67it/s]
+ ----------------------------------
+Starting with file:
+154it [00:29,  5.20it/s]
+154it [00:29,  5.20it/s]
+torch.Size([4018, 1000, 7])
+torch.Size([4018, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.68it/s]]
+21it [00:03,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+26it [00:07,  1.13s/it]]
+26it [00:07,  1.13s/it]]
+iter_num=73100 loss_val=0.0016
+37it [00:09,  5.11it/s]]
+48it [00:11,  5.65it/s]]
+60it [00:13,  5.66it/s]]
+71it [00:15,  5.66it/s]]
+83it [00:17,  5.66it/s]]
+94it [00:19,  5.66it/s]]
+105it [00:21,  5.66it/s]
+117it [00:23,  5.66it/s]
+125it [00:25,  5.66it/s]
+125it [00:25,  5.66it/s]
+iter_num=73200 loss_val=0.0014
+133it [00:29,  3.92it/s]
+144it [00:31,  5.61it/s]
+156it [00:33,  5.66it/s]
+167it [00:35,  5.66it/s]
+178it [00:37,  5.66it/s]
+190it [00:39,  5.66it/s]
+201it [00:41,  4.80it/s]
+201it [00:41,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/47_envs_4013_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4013, 1000, 7])
+torch.Size([4013, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+6it [00:01,  5.75it/s]s]
+18it [00:03,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+iter_num=73300 loss_val=0.0011
+34it [00:09,  4.31it/s]]
+45it [00:11,  5.63it/s]]
+56it [00:13,  5.66it/s]]
+68it [00:15,  5.66it/s]]
+79it [00:17,  5.66it/s]]
+91it [00:19,  5.66it/s]]
+102it [00:21,  5.66it/s]
+113it [00:23,  5.66it/s]
+125it [00:25,  5.66it/s]
+125it [00:25,  5.66it/s]
+iter_num=73400 loss_val=0.0011
+129it [00:29,  1.98it/s]
+141it [00:31,  5.52it/s]
+152it [00:33,  5.66it/s]
+164it [00:35,  5.66it/s]
+175it [00:37,  5.66it/s]
+186it [00:39,  5.66it/s]
+198it [00:41,  5.66it/s]
+198it [00:41,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/732_envs_3407_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3407, 1000, 7])
+torch.Size([3407, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.87it/s]s]
+15it [00:02,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+iter_num=73500 loss_val=0.0028
+34it [00:08,  4.47it/s]]
+45it [00:10,  5.63it/s]]
+56it [00:12,  5.66it/s]]
+68it [00:14,  5.66it/s]]
+79it [00:16,  5.67it/s]]
+91it [00:18,  5.66it/s]]
+102it [00:20,  5.67it/s]
+113it [00:22,  5.66it/s]
+125it [00:24,  5.66it/s]
+125it [00:24,  5.66it/s]
+iter_num=73600 loss_val=0.0022
+132it [00:28,  3.66it/s]
+143it [00:30,  5.60it/s]
+155it [00:32,  5.66it/s]
+166it [00:34,  5.66it/s]
+166it [00:34,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/947_envs_4016_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4016, 1000, 7])
+torch.Size([4016, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+2it [00:00,  6.28it/s]s]
+13it [00:02,  5.68it/s]]
+24it [00:04,  5.67it/s]]
+36it [00:06,  5.67it/s]]
+47it [00:08,  5.67it/s]]
+55it [00:09,  5.67it/s]]
+55it [00:09,  5.67it/s]]
+iter_num=73700 loss_val=0.0011
+63it [00:14,  3.91it/s]]
+75it [00:16,  5.63it/s]]
+86it [00:18,  5.67it/s]]
+98it [00:20,  5.67it/s]]
+109it [00:22,  5.67it/s]
+120it [00:24,  5.67it/s]
+132it [00:26,  5.67it/s]
+143it [00:28,  5.67it/s]
+155it [00:30,  5.67it/s]
+155it [00:30,  5.67it/s]
+iter_num=73800 loss_val=0.0011
+159it [00:34,  1.98it/s]
+171it [00:36,  5.53it/s]
+182it [00:38,  5.67it/s]
+193it [00:40,  5.67it/s]
+193it [00:40,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/854_envs_2340_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2340, 1000, 7])
+torch.Size([2340, 1000, 14])
+201it [00:41,  4.81it/s]
+201it [00:41,  4.81it/s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.69it/s]]
+22it [00:03,  5.67it/s]]
+34it [00:05,  5.67it/s]]
+45it [00:07,  5.67it/s]]
+55it [00:09,  5.66it/s]]
+55it [00:09,  5.66it/s]]
+iter_num=73900 loss_val=0.0047
+57it [00:11,  1.73it/s]]
+68it [00:13,  5.42it/s]]
+80it [00:15,  5.66it/s]]
+91it [00:17,  5.66it/s]]
+103it [00:20,  5.67it/s]
+114it [00:21,  5.67it/s]
+114it [00:21,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/669_envs_3649_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3649, 1000, 7])
+torch.Size([3649, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+3it [00:00,  5.98it/s]s]
+15it [00:02,  5.67it/s]]
+26it [00:04,  5.67it/s]]
+38it [00:06,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+iter_num=74000 loss_val=0.0018
+44it [00:10,  2.59it/s]]
+55it [00:12,  5.54it/s]]
+67it [00:14,  5.67it/s]]
+78it [00:16,  5.67it/s]]
+89it [00:18,  5.67it/s]]
+101it [00:20,  5.67it/s]
+112it [00:22,  5.66it/s]
+124it [00:24,  5.67it/s]
+135it [00:26,  5.67it/s]
+139it [00:27,  5.67it/s]
+139it [00:27,  5.67it/s]
+iter_num=74100 loss_val=0.0018
+141it [00:30,  1.27it/s]
+153it [00:32,  5.41it/s]
+164it [00:34,  5.66it/s]
+175it [00:36,  5.67it/s]
+175it [00:36,  5.67it/s]
+ ----------------------------------
+Starting with file:
+183it [00:38,  4.81it/s]
+183it [00:38,  4.81it/s]
+torch.Size([3446, 1000, 7])
+torch.Size([3446, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+10it [00:01,  5.69it/s]]
+22it [00:03,  5.67it/s]]
+33it [00:05,  5.67it/s]]
+44it [00:07,  5.67it/s]]
+56it [00:09,  5.67it/s]]
+57it [00:10,  5.67it/s]]
+57it [00:10,  5.67it/s]]
+iter_num=74200 loss_val=0.0021
+63it [00:13,  3.17it/s]]
+74it [00:15,  5.58it/s]]
+86it [00:17,  5.66it/s]]
+97it [00:19,  5.67it/s]]
+109it [00:21,  5.67it/s]
+120it [00:23,  5.67it/s]
+131it [00:25,  5.67it/s]
+143it [00:27,  5.67it/s]
+154it [00:29,  5.67it/s]
+157it [00:30,  5.67it/s]
+157it [00:30,  5.67it/s]
+iter_num=74300 loss_val=0.0024
+161it [00:33,  2.17it/s]
+173it [00:35,  4.81it/s]
+173it [00:35,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/997_envs_3409_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3409, 1000, 7])
+torch.Size([3409, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+18it [00:03,  5.67it/s]]
+29it [00:05,  5.67it/s]]
+41it [00:07,  5.66it/s]]
+52it [00:09,  5.67it/s]]
+64it [00:11,  5.67it/s]]
+75it [00:13,  5.67it/s]]
+85it [00:14,  5.67it/s]]
+85it [00:14,  5.67it/s]]
+iter_num=74400 loss_val=0.0027
+94it [00:19,  4.47it/s]]
+105it [00:21,  5.64it/s]
+116it [00:23,  5.66it/s]
+128it [00:25,  5.66it/s]
+139it [00:27,  5.66it/s]
+151it [00:29,  5.66it/s]
+162it [00:31,  5.67it/s]
+162it [00:31,  5.67it/s]
+ ----------------------------------
+Starting with file:
+171it [00:32,  5.21it/s]
+171it [00:32,  5.21it/s]
+torch.Size([3651, 1000, 7])
+torch.Size([3651, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+15it [00:02,  5.67it/s]]
+15it [00:02,  5.67it/s]]
+iter_num=74500 loss_val=0.0019
+27it [00:07,  5.16it/s]]
+38it [00:09,  5.65it/s]]
+50it [00:11,  5.67it/s]]
+61it [00:13,  5.66it/s]]
+72it [00:15,  5.67it/s]]
+84it [00:17,  5.67it/s]]
+95it [00:19,  5.67it/s]]
+106it [00:21,  5.67it/s]
+115it [00:23,  5.67it/s]
+115it [00:23,  5.67it/s]
+iter_num=74600 loss_val=0.0020
+124it [00:27,  4.40it/s]
+136it [00:29,  5.64it/s]
+147it [00:31,  5.67it/s]
+158it [00:33,  5.66it/s]
+159it [00:33,  5.66it/s]
+181it [00:37,  5.67it/s]
+181it [00:37,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/150_envs_3004_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3004, 1000, 7])
+torch.Size([3004, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.80it/s]s]
+17it [00:02,  5.66it/s]]
+28it [00:04,  5.66it/s]]
+33it [00:05,  5.66it/s]]
+33it [00:05,  5.66it/s]]
+iter_num=74700 loss_val=0.0037
+37it [00:08,  2.35it/s]]
+48it [00:10,  5.51it/s]]
+60it [00:12,  5.66it/s]]
+71it [00:14,  5.66it/s]]
+82it [00:16,  5.66it/s]]
+94it [00:18,  5.66it/s]]
+105it [00:20,  5.66it/s]
+117it [00:23,  5.66it/s]
+128it [00:24,  5.66it/s]
+133it [00:25,  5.66it/s]
+133it [00:25,  5.66it/s]
+iter_num=74800 loss_val=0.0033
+137it [00:28,  2.35it/s]
+148it [00:30,  5.51it/s]
+148it [00:30,  5.51it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/958_envs_4038_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4038, 1000, 7])
+torch.Size([4038, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.84it/s]s]
+15it [00:02,  5.67it/s]]
+27it [00:04,  5.67it/s]]
+38it [00:06,  5.66it/s]]
+50it [00:08,  5.67it/s]]
+61it [00:10,  5.67it/s]]
+72it [00:12,  5.67it/s]]
+83it [00:14,  5.66it/s]]
+83it [00:14,  5.66it/s]]
+iter_num=74900 loss_val=0.0016
+88it [00:18,  2.45it/s]]
+100it [00:20,  5.56it/s]
+110it [00:22,  5.66it/s]
+123it [00:24,  5.67it/s]
+134it [00:26,  5.67it/s]
+145it [00:28,  5.67it/s]
+157it [00:30,  5.67it/s]
+168it [00:32,  5.67it/s]
+180it [00:34,  5.67it/s]
+183it [00:35,  5.67it/s]
+184it [00:38,  1.14s/it]
+184it [00:38,  1.14s/it]
+iter_num=75000 loss_val=0.0012
+196it [00:40,  5.27it/s]
+0it [00:00, ?it/s]0it/s]
+0it [00:00, ?it/s]0it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/774_envs_3464_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3464, 1000, 7])
+torch.Size([3464, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+11it [00:01,  5.68it/s]]
+23it [00:04,  5.66it/s]]
+34it [00:05,  5.66it/s]]
+45it [00:07,  5.67it/s]]
+57it [00:10,  5.66it/s]]
+68it [00:11,  5.67it/s]]
+80it [00:14,  5.66it/s]]
+82it [00:14,  5.66it/s]]
+82it [00:14,  5.66it/s]]
+87it [00:18,  2.66it/s]]
+87it [00:18,  2.66it/s]]
+98it [00:20,  5.54it/s]]
+109it [00:21,  5.66it/s]
+121it [00:24,  5.67it/s]
+132it [00:26,  5.66it/s]
+144it [00:28,  5.66it/s]
+155it [00:30,  5.67it/s]
+166it [00:32,  5.66it/s]
+174it [00:33,  5.21it/s]
+174it [00:33,  5.21it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/326_envs_2298_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2298, 1000, 7])
+torch.Size([2298, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+12it [00:03,  2.19it/s]]
+12it [00:03,  2.19it/s]]
+iter_num=75200 loss_val=0.0040
+21it [00:05,  5.33it/s]]
+46it [00:09,  5.67it/s]]
+57it [00:11,  5.67it/s]]
+69it [00:14,  5.67it/s]]
+80it [00:15,  5.66it/s]]
+92it [00:18,  5.67it/s]]
+103it [00:20,  5.67it/s]
+109it [00:21,  5.67it/s]
+109it [00:21,  5.67it/s]
+iter_num=75300 loss_val=0.0045
+115it [00:24,  4.78it/s]
+115it [00:24,  4.78it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/531_envs_4019_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4019, 1000, 7])
+torch.Size([4019, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+6it [00:01,  5.75it/s]s]
+18it [00:03,  5.66it/s]]
+29it [00:05,  5.66it/s]]
+41it [00:07,  5.66it/s]]
+52it [00:09,  5.67it/s]]
+63it [00:11,  5.66it/s]]
+75it [00:13,  5.66it/s]]
+86it [00:15,  5.67it/s]]
+95it [00:16,  5.66it/s]]
+95it [00:16,  5.66it/s]]
+iter_num=75400 loss_val=0.0013
+102it [00:21,  3.46it/s]
+114it [00:23,  5.62it/s]
+125it [00:25,  5.66it/s]
+136it [00:27,  5.66it/s]
+148it [00:29,  5.66it/s]
+159it [00:31,  5.66it/s]
+171it [00:33,  5.66it/s]
+182it [00:35,  5.66it/s]
+193it [00:37,  5.66it/s]
+195it [00:37,  5.67it/s]
+198it [00:41,  1.55it/s]
+198it [00:41,  1.55it/s]
+iter_num=75500 loss_val=0.0012
+iter_num=75500 loss=0.0010 loss_val=0.0012 lr_iter=0.0005998345310807972
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/583_envs_3418_steps_1000_f_0_2_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3418, 1000, 7])
+torch.Size([3418, 1000, 14])
+3it [00:00,  6.02it/s]s]
+3it [00:00,  6.02it/s]s]
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+15it [00:02,  5.66it/s]]
+26it [00:04,  5.66it/s]]
+37it [00:06,  5.66it/s]]
+49it [00:08,  5.66it/s]]
+60it [00:10,  5.66it/s]]
+72it [00:12,  5.66it/s]]
+83it [00:14,  5.66it/s]]
+94it [00:16,  5.67it/s]]
+95it [00:16,  5.66it/s]]
+95it [00:16,  5.66it/s]]
+iter_num=75600 loss_val=0.0020
+102it [00:20,  3.66it/s]
+113it [00:22,  5.60it/s]
+124it [00:24,  5.66it/s]
+136it [00:26,  5.66it/s]
+143it [00:27,  5.66it/s]
+170it [00:32,  5.66it/s]
+170it [00:32,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/474_envs_3658_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3658, 1000, 7])
+torch.Size([3658, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.79it/s]s]
+17it [00:02,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+25it [00:04,  5.67it/s]]
+iter_num=75700 loss_val=0.0020
+34it [00:08,  4.41it/s]]
+46it [00:10,  5.64it/s]]
+57it [00:12,  5.66it/s]]
+69it [00:15,  5.66it/s]]
+80it [00:17,  5.67it/s]]
+91it [00:18,  5.66it/s]]
+103it [00:21,  5.66it/s]
+114it [00:23,  5.66it/s]
+125it [00:24,  5.67it/s]
+125it [00:24,  5.67it/s]
+iter_num=75800 loss_val=0.0022
+132it [00:29,  3.57it/s]
+143it [00:31,  5.60it/s]
+154it [00:32,  5.66it/s]
+166it [00:35,  5.67it/s]
+177it [00:37,  5.66it/s]
+1it [00:00,  7.62it/s]s]
+1it [00:00,  7.62it/s]s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/434_envs_3672_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3672, 1000, 7])
+torch.Size([3672, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+12it [00:02,  5.68it/s]]
+23it [00:04,  5.67it/s]]
+35it [00:06,  5.67it/s]]
+43it [00:07,  5.67it/s]]
+43it [00:07,  5.67it/s]]
+iter_num=75900 loss_val=0.0020
+52it [00:12,  4.40it/s]]
+64it [00:14,  5.65it/s]]
+75it [00:16,  5.67it/s]]
+87it [00:18,  5.67it/s]]
+98it [00:20,  5.67it/s]]
+109it [00:22,  5.67it/s]
+121it [00:24,  5.67it/s]
+132it [00:26,  5.67it/s]
+141it [00:27,  5.67it/s]
+143it [00:28,  5.67it/s]
+143it [00:28,  5.67it/s]
+iter_num=76000 loss_val=0.0019
+147it [00:31,  2.09it/s]
+158it [00:33,  5.48it/s]
+170it [00:35,  5.67it/s]
+181it [00:37,  5.67it/s]
+181it [00:37,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/375_envs_3107_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3107, 1000, 7])
+torch.Size([3107, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.85it/s]s]
+15it [00:02,  5.67it/s]]
+27it [00:04,  5.67it/s]]
+38it [00:06,  5.67it/s]]
+50it [00:08,  5.67it/s]]
+60it [00:10,  5.67it/s]]
+60it [00:10,  5.67it/s]]
+iter_num=76100 loss_val=0.0030
+70it [00:14,  4.84it/s]]
+81it [00:16,  5.65it/s]]
+92it [00:18,  5.67it/s]]
+104it [00:20,  5.67it/s]
+115it [00:22,  5.67it/s]
+127it [00:24,  5.67it/s]
+138it [00:26,  5.67it/s]
+149it [00:28,  5.67it/s]
+149it [00:28,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/5_envs_4023_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4023, 1000, 7])
+156it [00:29,  5.21it/s]
+156it [00:29,  5.21it/s]
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.80it/s]s]
+5it [00:00,  5.80it/s]s]
+iter_num=76200 loss_val=0.0049
+16it [00:05,  4.91it/s]]
+27it [00:07,  5.65it/s]]
+38it [00:09,  5.66it/s]]
+50it [00:11,  5.66it/s]]
+61it [00:13,  5.67it/s]]
+73it [00:16,  5.66it/s]]
+84it [00:17,  5.66it/s]]
+95it [00:19,  5.66it/s]]
+105it [00:21,  5.67it/s]
+105it [00:21,  5.67it/s]
+iter_num=76300 loss_val=0.0011
+111it [00:25,  2.96it/s]
+123it [00:28,  5.59it/s]
+134it [00:30,  5.66it/s]
+146it [00:32,  5.66it/s]
+157it [00:34,  5.65it/s]
+163it [00:35,  5.66it/s]
+191it [00:40,  5.67it/s]
+202it [00:41,  4.82it/s]
+202it [00:41,  4.82it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/96_envs_3057_steps_1000_f_0_15_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3057, 1000, 7])
+torch.Size([3057, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.87it/s]s]
+5it [00:03,  1.06s/it]s]
+5it [00:03,  1.06s/it]s]
+iter_num=76400 loss_val=0.0069
+16it [00:05,  5.24it/s]]
+28it [00:07,  5.66it/s]]
+39it [00:09,  5.67it/s]]
+51it [00:11,  5.67it/s]]
+62it [00:13,  5.67it/s]]
+73it [00:15,  5.67it/s]]
+85it [00:17,  5.67it/s]]
+96it [00:19,  5.67it/s]]
+104it [00:20,  5.67it/s]
+105it [00:23,  1.09it/s]
+105it [00:23,  1.09it/s]
+iter_num=76500 loss_val=0.0036
+116it [00:25,  5.24it/s]
+128it [00:27,  5.66it/s]
+139it [00:29,  5.67it/s]
+151it [00:31,  5.67it/s]
+151it [00:31,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/128_envs_2261_steps_1000_f_0_1_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([2261, 1000, 7])
+torch.Size([2261, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+5it [00:00,  5.79it/s]s]
+16it [00:02,  5.67it/s]]
+27it [00:04,  5.66it/s]]
+39it [00:06,  5.67it/s]]
+50it [00:08,  5.66it/s]]
+52it [00:09,  5.66it/s]]
+52it [00:09,  5.66it/s]]
+iter_num=76600 loss_val=0.0048
+63it [00:12,  5.20it/s]]
+74it [00:14,  5.65it/s]]
+85it [00:16,  5.66it/s]]
+97it [00:18,  5.66it/s]]
+108it [00:20,  5.67it/s]
+108it [00:20,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/511_envs_4026_steps_1000_f_0_15_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4026, 1000, 7])
+torch.Size([4026, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.54it/s]s]
+13it [00:02,  5.67it/s]]
+24it [00:04,  5.66it/s]]
+36it [00:06,  5.66it/s]]
+40it [00:07,  5.66it/s]]
+40it [00:07,  5.66it/s]]
+iter_num=76700 loss_val=0.0011
+50it [00:11,  4.64it/s]]
+63it [00:14,  5.65it/s]]
+74it [00:16,  5.66it/s]]
+86it [00:18,  5.67it/s]]
+97it [00:20,  5.66it/s]]
+109it [00:22,  5.66it/s]
+120it [00:24,  5.66it/s]
+131it [00:26,  5.66it/s]
+135it [00:26,  5.67it/s]
+140it [00:27,  5.67it/s]
+140it [00:27,  5.67it/s]
+iter_num=76800 loss_val=0.0009
+146it [00:32,  2.88it/s]
+158it [00:34,  5.59it/s]
+169it [00:36,  5.66it/s]
+180it [00:38,  5.66it/s]
+192it [00:40,  5.67it/s]
+202it [00:42,  4.79it/s]
+202it [00:42,  4.79it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/940_envs_3686_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3686, 1000, 7])
+torch.Size([3686, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+8it [00:01,  5.71it/s]s]
+19it [00:03,  5.67it/s]]
+31it [00:05,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+39it [00:06,  5.67it/s]]
+iter_num=76900 loss_val=0.0019
+48it [00:11,  4.40it/s]]
+60it [00:13,  5.65it/s]]
+71it [00:15,  5.67it/s]]
+82it [00:17,  5.67it/s]]
+94it [00:19,  5.67it/s]]
+105it [00:21,  5.67it/s]
+117it [00:23,  5.67it/s]
+128it [00:25,  5.67it/s]
+139it [00:27,  5.67it/s]
+139it [00:27,  5.67it/s]
+iter_num=77000 loss_val=0.0018
+146it [00:31,  3.57it/s]
+157it [00:33,  5.60it/s]
+168it [00:35,  5.67it/s]
+180it [00:37,  5.67it/s]
+180it [00:37,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/596_envs_4015_steps_1000_f_0_2_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4015, 1000, 7])
+torch.Size([4015, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.59it/s]s]
+13it [00:02,  5.67it/s]]
+24it [00:04,  5.66it/s]]
+35it [00:06,  5.66it/s]]
+47it [00:08,  5.66it/s]]
+55it [00:09,  5.66it/s]]
+55it [00:09,  5.66it/s]]
+iter_num=77100 loss_val=0.0012
+63it [00:14,  3.91it/s]]
+74it [00:16,  5.62it/s]]
+86it [00:18,  5.66it/s]]
+97it [00:20,  5.66it/s]]
+108it [00:22,  5.66it/s]
+120it [00:24,  5.66it/s]
+131it [00:26,  5.66it/s]
+143it [00:28,  5.66it/s]
+154it [00:30,  5.67it/s]
+155it [00:30,  5.66it/s]
+155it [00:30,  5.66it/s]
+iter_num=77200 loss_val=0.0011
+159it [00:34,  1.98it/s]
+170it [00:36,  5.46it/s]
+181it [00:38,  5.66it/s]
+193it [00:40,  5.66it/s]
+201it [00:41,  4.80it/s]
+201it [00:41,  4.80it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/14_envs_4043_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4043, 1000, 7])
+torch.Size([4043, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+9it [00:01,  5.69it/s]s]
+21it [00:03,  5.67it/s]]
+32it [00:05,  5.67it/s]]
+43it [00:07,  5.67it/s]]
+55it [00:09,  5.66it/s]]
+55it [00:09,  5.66it/s]]
+iter_num=77300 loss_val=0.0013
+59it [00:13,  1.97it/s]]
+71it [00:15,  5.52it/s]]
+82it [00:17,  5.66it/s]]
+93it [00:19,  5.67it/s]]
+105it [00:21,  5.67it/s]
+116it [00:23,  5.67it/s]
+128it [00:25,  5.66it/s]
+139it [00:27,  5.66it/s]
+150it [00:29,  5.66it/s]
+155it [00:30,  5.67it/s]
+155it [00:30,  5.67it/s]
+iter_num=77400 loss_val=0.0011
+166it [00:35,  4.91it/s]
+178it [00:37,  5.65it/s]
+189it [00:39,  5.66it/s]
+201it [00:41,  5.67it/s]
+201it [00:41,  5.67it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/765_envs_3639_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3639, 1000, 7])
+torch.Size([3639, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+4it [00:00,  5.86it/s]s]
+15it [00:02,  5.67it/s]]
+27it [00:04,  5.66it/s]]
+38it [00:06,  5.66it/s]]
+49it [00:08,  5.66it/s]]
+53it [00:09,  5.66it/s]]
+53it [00:09,  5.66it/s]]
+iter_num=77500 loss_val=0.0019
+56it [00:12,  1.66it/s]]
+67it [00:14,  5.41it/s]]
+79it [00:16,  5.66it/s]]
+90it [00:18,  5.66it/s]]
+101it [00:20,  5.66it/s]
+113it [00:22,  5.66it/s]
+124it [00:24,  5.66it/s]
+135it [00:26,  5.66it/s]
+147it [00:28,  5.66it/s]
+153it [00:29,  5.66it/s]
+153it [00:29,  5.66it/s]
+iter_num=77600 loss_val=0.0017
+165it [00:34,  5.16it/s]
+176it [00:36,  5.65it/s]
+176it [00:36,  5.65it/s]
+ ----------------------------------
+Starting with file:
+0it [00:00, ?it/s]0it/s]
+0it [00:00, ?it/s]0it/s]
+torch.Size([4030, 1000, 7])
+torch.Size([4030, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+11it [00:01,  5.68it/s]]
+23it [00:04,  5.66it/s]]
+34it [00:05,  5.66it/s]]
+45it [00:07,  5.66it/s]]
+57it [00:10,  5.66it/s]]
+68it [00:11,  5.66it/s]]
+72it [00:12,  5.66it/s]]
+73it [00:16,  1.14s/it]]
+73it [00:16,  1.14s/it]]
+iter_num=77700 loss_val=0.0010
+84it [00:17,  5.11it/s]]
+96it [00:20,  5.66it/s]]
+107it [00:22,  5.66it/s]
+118it [00:24,  5.66it/s]
+130it [00:26,  5.66it/s]
+141it [00:28,  5.66it/s]
+152it [00:30,  5.66it/s]
+164it [00:32,  5.66it/s]
+172it [00:33,  5.66it/s]
+172it [00:33,  5.66it/s]
+iter_num=77800 loss_val=0.0009
+179it [00:38,  3.37it/s]
+190it [00:40,  5.59it/s]
+202it [00:42,  4.79it/s]
+202it [00:42,  4.79it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/965_envs_3659_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3659, 1000, 7])
+torch.Size([3659, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+6it [00:01,  5.75it/s]s]
+17it [00:02,  5.67it/s]]
+29it [00:05,  5.67it/s]]
+40it [00:07,  5.67it/s]]
+52it [00:09,  5.66it/s]]
+63it [00:11,  5.66it/s]]
+71it [00:12,  5.66it/s]]
+71it [00:12,  5.66it/s]]
+iter_num=77900 loss_val=0.0019
+81it [00:17,  4.72it/s]]
+92it [00:19,  5.64it/s]]
+103it [00:21,  5.66it/s]
+115it [00:23,  5.67it/s]
+126it [00:25,  5.66it/s]
+138it [00:27,  5.66it/s]
+149it [00:29,  5.66it/s]
+160it [00:31,  5.66it/s]
+171it [00:33,  5.67it/s]
+171it [00:33,  5.67it/s]
+iter_num=78000 loss_val=0.0021
+178it [00:37,  3.58it/s]
+178it [00:37,  3.58it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/954_envs_3650_steps_1000_f_0_25_CH_rand_1010_bounds_mass_10_10.pt
+torch.Size([3650, 1000, 7])
+torch.Size([3650, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+1it [00:00,  7.62it/s]s]
+13it [00:02,  5.67it/s]]
+24it [00:04,  5.67it/s]]
+35it [00:06,  5.65it/s]]
+47it [00:08,  5.66it/s]]
+58it [00:10,  5.66it/s]]
+70it [00:12,  5.66it/s]]
+81it [00:14,  5.66it/s]]
+89it [00:15,  5.66it/s]]
+89it [00:15,  5.66it/s]]
+iter_num=78100 loss_val=0.0019
+99it [00:20,  4.72it/s]]
+110it [00:22,  5.64it/s]
+121it [00:24,  5.66it/s]
+133it [00:26,  5.66it/s]
+144it [00:28,  5.67it/s]
+156it [00:30,  5.66it/s]
+167it [00:32,  5.66it/s]
+178it [00:34,  5.66it/s]
+178it [00:34,  5.66it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/63_envs_4008_steps_1000_f_0_25_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4008, 1000, 7])
+torch.Size([4008, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+2it [00:00,  6.32it/s]s]
+7it [00:01,  5.72it/s]s]
+7it [00:01,  5.72it/s]s]
+iter_num=78200 loss_val=0.0038
+18it [00:06,  4.91it/s]]
+29it [00:08,  5.65it/s]]
+41it [00:10,  5.66it/s]]
+52it [00:12,  5.67it/s]]
+64it [00:14,  5.66it/s]]
+75it [00:16,  5.67it/s]]
+86it [00:18,  5.66it/s]]
+98it [00:20,  5.66it/s]]
+107it [00:22,  5.66it/s]
+107it [00:22,  5.66it/s]
+iter_num=78300 loss_val=0.0028
+114it [00:26,  3.46it/s]
+125it [00:28,  5.60it/s]
+137it [00:30,  5.66it/s]
+148it [00:32,  5.66it/s]
+159it [00:34,  5.66it/s]
+171it [00:36,  5.66it/s]
+182it [00:38,  5.66it/s]
+194it [00:40,  5.66it/s]
+201it [00:41,  4.81it/s]
+201it [00:41,  4.81it/s]
+ ----------------------------------
+Starting with file:
+ /home/asad/shared_ws/manuel_ws/Data_generation/python/examples/Franka/out_tensors/train/253_envs_4055_steps_1000_f_0_1_MS_rand_1010_bounds_mass_10_10.pt
+torch.Size([4055, 1000, 7])
+torch.Size([4055, 1000, 14])
+ckpt_partition_20_batch16_embd192_heads12_lay12_MSE.pt is present --> Proceeding from resume
+num decayed parameter tensors: 125, with 12,586,368 parameters
+num non-decayed parameter tensors: 199, with 51,854 parameters
+7it [00:01,  5.72it/s]s]
+7it [00:01,  5.72it/s]s]
+iter_num=78400 loss_val=0.0018
+15it [00:05,  3.89it/s]]
+26it [00:07,  5.62it/s]]
+38it [00:09,  5.67it/s]]
+49it [00:11,  5.67it/s]]
+60it [00:13,  5.67it/s]]
+72it [00:15,  5.67it/s]]
+83it [00:17,  5.66it/s]]
+95it [00:19,  5.66it/s]]
+106it [00:21,  5.67it/s]
+107it [00:22,  5.67it/s]
+111it [00:26,  1.97it/s]
+111it [00:26,  1.97it/s]
+iter_num=78500 loss_val=0.0011
+122it [00:27,  5.46it/s]
+133it [00:29,  5.66it/s]
+145it [00:32,  5.67it/s]
+156it [00:33,  5.67it/s]
+165it [00:35,  5.66it/s]
+176it [00:37,  5.66it/s]
+187it [00:39,  5.66it/s]
+199it [00:41,  5.66it/s]
+203it [00:42,  4.80it/s]
+203it [00:42,  4.80it/s]
