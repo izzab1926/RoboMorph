@@ -23,9 +23,8 @@ As a natural increase of complexity, this Framework has been applied to a Roboti
 - **Context**: Is the portion of the entire simulation that establish the correlation between input and outputs.
 - **Total time window**: 1000 steps
 
-This framework has been applied to Panda Franka Robotic Arm and Kuka.
+This framework has been applied to Panda Franka Robotic Arm.
 
-<img src="Images/dataset.png"  width="300"> 
 <img src="Images/Task_job.png"  width="300">
 <img src="Images/tasks.png"  width="250"> 
 
@@ -79,7 +78,7 @@ Most of the naming rules are identical to the ones for the synthetic torques, ex
 
 * [train_sim_multiple_seeds.py](Transformer_for_isaac/train_sim_multiple_seeds.py): Encoder-decoder Transformer for multi-step-ahead simulation.
 
-* [TEST_single_model.py](train_sim_multiple_seeds.py)
+* [TEST_single_model.py](Transformer_for_isaac/TEST_single_model.ipynb)
 
 The scripts above except accept command-line arguments to customize the architecture and aspects of the training. 
 For instance, the large one-step-ahead Transformer for the WH class described in the paper may be trained with the command:
@@ -89,39 +88,73 @@ python train_sim_multiple_seeds.py --n-layer 12 --n-head 12 --n-embd 192 --batch
 ```
 
 
-Jupyter notebooks that load the trained model and make predictions/simulations on new data are also available in the repo, e.g. [test_onestep_lin.ipynb](test_onestep_lin.ipynb).
-
 ## Model Training and Dataset Management
-Each family of models trained on the same dataset is generally collected in the same folder (e.g., out_ds2). This process is not automated for individual models, so during training, the dataset identifier (e.g., ds2) must be manually added to the model name.
+Each family of models trained on the same dataset is generally collected in the same folder (e.g., out_ds1). This process is not automated for individual models, so during training, the dataset identifier (e.g., ds2) must be manually added to the model name.
+Manually managing model names and dataset identifiers requires careful attention to ensure consistency and avoid errors, especially when resuming training. 
+
+
+### How to Test a model after training
+```
+ckpt_partition_20_batch16_embd192_heads8_lay12_MSE.pt
+```
+
+It must be renamed with dataset-suffix identifier:
 
 ```
-ckpt_partition_5_batch16_embd192_heads8_lay12_MSE
+ckpt_partition_20_batch16_embd192_heads8_lay12_MSE_ds1.pt
 ```
+Copy and rename `traning_dataset_list.txt` located in [data_generation](data_generation) as `traning_ds1_list.txt` file inside [Transformer_for_isaac](Transformer_for_isaac).
 
-Post-training with dataset identifier:
+All test file will search inside this txt file and will consider the tests  in three categories: ID, OOD, Validation (When the seed are also equal).
+
+### How to update training - Fine tuning
+
+If the reader wants to update the trained model, he needs to put 
+'training_dataset_list.txt' inside [data_generation](data_generation) folder to update the txt file with the new simulation records. 
+Moreover, if the model has been already renamed with the dataset suffix, the dataset identifier must be removed and manually update.
+
+Why is this  necessary? Inside [train_sim_multiple_seeds.py](Transformer_for_isaac/train_sim_multiple_seeds.py) it is specified the nomenclature which will be searched inside the specified folder (out_model).
+
+`cfg.in_file = f"{cfg.out_file}_partition_{round(partition*100)}_batch{cfg.batch_size}_embd{cfg.n_embd}_heads{cfg.n_head}_lay{cfg.n_layer}_{cfg.loss_function}"`
+
+#### Example
+I have a certain model `ckpt_partition_20_batch16_embd192_heads8_lay12_MSE_ds1.pt`  
+located in `Transformer_for_isaac/out_ds1`  
+with a txt file located in `data_generation/training_ds1_list.txt`
+
+I want to train-fine tuning on a certain dsX.
+
+In order to correctly update the same model, it is necessary to rename such as:
+`ckpt_partition_20_batch16_embd192_heads8_lay12_MSE.pt`  
+is located in `Transformer_for_isaac/out_dsX`    
+with the same txt file located in `data_generation/training_dataset_list.txt`  
+
+then Launch (ATTENTION to the parameter: --model-dir "out_dsX")
 
 ```
-ckpt_partition_5_batch16_embd192_heads8_lay12_MSE_ds1
+source simulate_and_train.sh
 ```
-Keep the dataset identifier consistent throughout the process.
+In `simulate_and_train.sh` is possible to save some intermediates versions, depending on the dimension of simulation blocks.
+Use wandb as register to keep trace.  
+https://wandb.ai/home
 
-### Continuous Access During Training
-Maintaining consistent access to model checkpoints is crucial. Manual intervention is needed to add the dataset identifier.
-If the model name changes to include the dataset identifier, scripts for resuming training must account for this to avoid misinterpretation.
-Manually managing model names and dataset identifiers requires careful attention to ensure consistency and avoid errors, especially when resuming training. Adopting clear naming conventions, either incremental or descriptive, can help.
-Feel free to adjust to whatever you prefer, paying attention to consistency between beginning and end of training script.
+Once the simulations-trainings will have been finished, the same file needs to be renamed as: 
+
 
 ### [shell_script](shell_script)
 
-In this folder, is possible to train and generate datasets adjusting whatever the user needs ([test_conda_big.sh](shell_script/test_conda_big.sh)). Using _source_ allows to activate and deactivate different conda environments from shell scripts.
+In this folder, is possible to train and generate datasets adjusting whatever the user needs ([simulate_and_train.sh](shell_script/simulate_and_train.sh)). Using _source_ allows to activate and deactivate different conda environments from shell scripts.
 
 ```
-source test_conda_big.sh
+source simulate_and_train.sh
 ```
 In order to better understand the logic behind this framework, the high level structure could ehnance the code interpetability.
 
 <img src="Images/high_level_generation.png"  width="300"> 
-<img src="Images/high_level_training.png"  width="305">
+<img src="Images/high_level_training.png"  width="305">  <br>
+<br>
+
+Due to dimension issues, when launching [simulate_and_train.sh](Shell_scripts/simulate_and_train.sh) we are deleting dataset training folder. All the simulations previously used for trainign are stored inside the txt file, which can be updated in each training session.
 
 
 
@@ -131,18 +164,6 @@ In order to better understand the logic behind this framework, the high level st
 
 * [Plot_loss_from_Wandb](data_generation/Plot_loss_from_Wandb) This folder contains some example of training data.
 
-
-In this folder is contained all the necessary to reproduce in MoveIt! the OSC trajectories.
- Paste the script "interactive_marker.py" inside:
-```
-/ws_panda/src/franka_ros/franka_example_controllers/scripts
-```
-(In order to not substite the original one, rename _ORIGINAL the already present), where ws_panda is the catkin_space from https://github.com/frankaemika/franka_ros.
-
-Execute from terminal after building catkin workspace.
-```
-roslaunch franka_gazebo panda.launch x:=-0.5 controller:=cartesian_impedance_example_controller     rviz:=true
-```
 
 # Additional information
 
